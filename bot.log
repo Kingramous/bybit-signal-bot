@@ -1,0 +1,1524 @@
+2026-06-15 11:19:23,629 [INFO] main — ============================================================
+2026-06-15 11:19:23,629 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 11:19:23,629 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 11:19:23,629 [INFO] main — ============================================================
+2026-06-15 11:19:24,590 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 11:19:24,590 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 11:19:24,590 [INFO] scanner — ============================================================
+2026-06-15 11:19:24,591 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 11:19:24,593 [INFO] scanner — ============================================================
+2026-06-15 11:19:26,937 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 11:19:28,373 [INFO] data_fetcher — Filtered to 48 coins
+2026-06-15 11:19:28,374 [INFO] scanner — After volume/volatility filter: 48 coins
+2026-06-15 11:19:28,378 [INFO] scanner — Analysing ALL 48 candidates...
+2026-06-15 11:19:34,441 [INFO] scanner — ⛔ AAVEUSDT: ANTI-CHASE: Chasing pump: up 11.5% + 1h RSI=98 — no structural backing
+2026-06-15 11:19:40,543 [INFO] scanner — ⛔ FARTCOINUSDT: ANTI-CHASE: Chasing pump: up 9.2% + 1h RSI=87 — no structural backing
+2026-06-15 11:19:44,148 [INFO] scanner — ⛔ HYPEUSDT: ANTI-CHASE: Chasing pump: up 10.0% + 1h RSI=89 — no structural backing
+2026-06-15 11:19:44,422 [INFO] scanner — Progress: 20/48 analysed | 0 valid | 16s elapsed
+2026-06-15 11:19:48,888 [INFO] scanner — ⛔ NEARUSDT: ANTI-CHASE: Chasing pump: up 13.0% + 1h RSI=95 — no structural backing
+2026-06-15 11:19:55,415 [INFO] scanner — Progress: 40/48 analysed | 0 valid | 27s elapsed
+2026-06-15 11:20:00,828 [INFO] scanner — Full scan complete in 32s — 0 valid signals found
+2026-06-15 11:20:00,828 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 11:20:00,828 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 11:20:01,553 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 11:20:01,553 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 11:20:01,553 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 20:49:04,662 [INFO] main — ============================================================
+2026-06-15 20:49:04,662 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 20:49:04,662 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 20:49:04,662 [INFO] main — ============================================================
+2026-06-15 20:49:06,666 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 20:49:06,666 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 20:49:06,666 [INFO] scanner — ============================================================
+2026-06-15 20:49:06,666 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 20:49:06,666 [INFO] scanner — ============================================================
+2026-06-15 20:49:11,025 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 20:49:14,419 [INFO] data_fetcher — Filtered to 65 coins
+2026-06-15 20:49:14,419 [INFO] scanner — After volume/volatility filter: 65 coins
+2026-06-15 20:49:14,420 [INFO] scanner — Analysing ALL 65 candidates...
+2026-06-15 20:49:21,176 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (43/60 minimum)
+2026-06-15 20:49:21,201 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (42/60 minimum)
+2026-06-15 20:49:21,957 [INFO] scanner — ⬛ APTUSDT: score too low (47/60 minimum)
+2026-06-15 20:49:21,969 [INFO] scanner — ⬛ ADAUSDT: score too low (40/60 minimum)
+2026-06-15 20:49:22,084 [INFO] scanner — ⬛ ASTERUSDT: score too low (48/60 minimum)
+2026-06-15 20:49:22,350 [INFO] scanner — ⬛ ALLOUSDT: score too low (48/60 minimum)
+2026-06-15 20:49:22,899 [INFO] scanner — ⬛ ARBUSDT: score too low (45/60 minimum)
+2026-06-15 20:49:22,919 [INFO] scanner — ⬛ AAVEUSDT: score too low (42/60 minimum)
+2026-06-15 20:49:26,717 [INFO] scanner — ⬛ AVAXUSDT: score too low (46/60 minimum)
+2026-06-15 20:49:27,284 [INFO] scanner — ⬛ BABYUSDT: score too low (43/60 minimum)
+2026-06-15 20:49:27,393 [INFO] scanner — ⬛ BTCUSDT: score too low (44/60 minimum)
+2026-06-15 20:49:27,588 [INFO] scanner — ⬛ BCHUSDT: score too low (39/60 minimum)
+2026-06-15 20:49:28,403 [INFO] scanner — ⬛ BNBUSDT: score too low (47/60 minimum)
+2026-06-15 20:49:28,472 [INFO] scanner — ⬛ CHIPUSDT: score too low (45/60 minimum)
+2026-06-15 20:49:28,638 [INFO] scanner — ⬛ CLUSDT: score too low (55/60 minimum)
+2026-06-15 20:49:29,325 [INFO] scanner — ⬛ CLOUSDT: score too low (42/60 minimum)
+2026-06-15 20:49:32,972 [INFO] scanner — ⬛ EIGENUSDT: score too low (46/60 minimum)
+2026-06-15 20:49:33,970 [INFO] scanner — ⬛ DOGEUSDT: score too low (47/60 minimum)
+2026-06-15 20:49:34,379 [INFO] scanner — ⬛ ENAUSDT: score too low (42/60 minimum)
+2026-06-15 20:49:34,457 [INFO] scanner — ⛔ ETHUSDT: ANTI-CHASE: Chasing pump: up 9.5% + 1h RSI=83 — no structural backing
+2026-06-15 20:49:34,458 [INFO] scanner — Progress: 20/65 analysed | 0 valid | 20s elapsed
+2026-06-15 20:49:34,630 [INFO] scanner — ⬛ DOTUSDT: score too low (43/60 minimum)
+2026-06-15 20:49:35,054 [INFO] scanner — ⬛ FILUSDT: score too low (42/60 minimum)
+2026-06-15 20:49:35,721 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (49/60 minimum)
+2026-06-15 20:49:35,930 [INFO] scanner — ⬛ GALAUSDT: score too low (44/60 minimum)
+2026-06-15 20:49:40,954 [INFO] scanner — ⬛ HBARUSDT: score too low (48/60 minimum)
+2026-06-15 20:49:43,135 [INFO] scanner — ⬛ HOMEUSDT: score too low (44/60 minimum)
+2026-06-15 20:49:43,423 [INFO] scanner — ⬛ ICPUSDT: score too low (50/60 minimum)
+2026-06-15 20:49:43,456 [INFO] scanner — ⬛ INJUSDT: score too low (42/60 minimum)
+2026-06-15 20:49:44,490 [INFO] scanner — ⬛ HYPEUSDT: score too low (44/60 minimum)
+2026-06-15 20:49:44,823 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (43/60 minimum)
+2026-06-15 20:49:45,085 [INFO] scanner — ⬛ IPUSDT: score too low (38/60 minimum)
+2026-06-15 20:49:45,319 [INFO] scanner — ⬛ JUPUSDT: score too low (51/60 minimum)
+2026-06-15 20:49:49,010 [INFO] scanner — ⬛ LINKUSDT: score too low (42/60 minimum)
+2026-06-15 20:49:50,502 [INFO] scanner — ⬛ LITUSDT: score too low (47/60 minimum)
+2026-06-15 20:49:50,630 [INFO] scanner — ⬛ LTCUSDT: score too low (43/60 minimum)
+2026-06-15 20:49:51,096 [INFO] scanner — ⬛ MEGAUSDT: score too low (41/60 minimum)
+2026-06-15 20:49:51,790 [INFO] scanner — ⬛ MNTUSDT: score too low (45/60 minimum)
+2026-06-15 20:49:52,409 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 20:49:52,448 [INFO] scanner — ⬛ ONDOUSDT: score too low (44/60 minimum)
+2026-06-15 20:49:52,958 [INFO] scanner — ⬛ OPUSDT: score too low (43/60 minimum)
+2026-06-15 20:49:52,959 [INFO] scanner — Progress: 40/65 analysed | 0 valid | 39s elapsed
+2026-06-15 20:50:03,623 [INFO] scanner — ⬛ PENGUUSDT: score too low (47/60 minimum)
+2026-06-15 20:50:07,929 [INFO] scanner — ⬛ SHIB1000USDT: score too low (50/60 minimum)
+2026-06-15 20:50:09,400 [INFO] scanner — ⛔ SOLUSDT: ANTI-CHASE: Chasing pump: up 11.3% + 1h RSI=90 — no structural backing
+2026-06-15 20:50:09,455 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (42/60 minimum)
+2026-06-15 20:50:09,782 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 20:50:09,966 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 20:50:11,099 [INFO] scanner — ⬛ RENDERUSDT: score too low (56/60 minimum)
+2026-06-15 20:50:11,162 [INFO] scanner — ⬛ SIRENUSDT: insufficient daily data (0 candles, need 50)
+2026-06-15 20:50:12,694 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 20:50:14,753 [INFO] scanner — ⬛ STGUSDT: score too low (33/60 minimum)
+2026-06-15 20:50:16,015 [INFO] scanner — ⬛ STRKUSDT: score too low (46/60 minimum)
+2026-06-15 20:50:16,251 [INFO] scanner — ⬛ SUIUSDT: score too low (42/60 minimum)
+2026-06-15 20:50:17,361 [INFO] scanner — ⬛ TAOUSDT: score too low (42/60 minimum)
+2026-06-15 20:50:17,366 [INFO] scanner — ⬛ TIAUSDT: score too low (40/60 minimum)
+2026-06-15 20:50:18,324 [INFO] scanner — ⬛ VELVETUSDT: score too low (53/60 minimum)
+2026-06-15 20:50:19,433 [INFO] scanner — ⬛ UNIUSDT: score too low (42/60 minimum)
+2026-06-15 20:50:20,342 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (50/60 minimum)
+2026-06-15 20:50:21,178 [INFO] scanner — ⬛ WIFUSDT: score too low (40/60 minimum)
+2026-06-15 20:50:23,716 [INFO] scanner — ⬛ WLFIUSDT: score too low (49/60 minimum)
+2026-06-15 20:50:23,882 [INFO] scanner — ⬛ XAGUSDT: score too low (44/60 minimum)
+2026-06-15 20:50:23,883 [INFO] scanner — Progress: 60/65 analysed | 0 valid | 69s elapsed
+2026-06-15 20:50:24,412 [INFO] scanner — ⬛ XAUUSDT: score too low (44/60 minimum)
+2026-06-15 20:50:25,297 [INFO] scanner — ⬛ XMRUSDT: score too low (48/60 minimum)
+2026-06-15 20:50:25,557 [INFO] scanner — ⬛ XAUTUSDT: score too low (45/60 minimum)
+2026-06-15 20:50:26,106 [INFO] scanner — ⬛ XPLUSDT: score too low (44/60 minimum)
+2026-06-15 20:50:26,485 [INFO] scanner — ⛔ XRPUSDT: ANTI-CHASE: Chasing pump: up 12.3% + 1h RSI=88 — no structural backing
+2026-06-15 20:50:26,486 [INFO] scanner — Full scan complete in 72s — 0 valid signals found
+2026-06-15 20:50:26,486 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 20:50:26,486 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 20:50:27,274 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 20:50:27,274 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 20:50:27,274 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 20:55:28,832 [INFO] main — ============================================================
+2026-06-15 20:55:28,833 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 20:55:28,833 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 20:55:28,833 [INFO] main — ============================================================
+2026-06-15 20:55:29,622 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 20:55:29,622 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 20:55:29,623 [INFO] scanner — ============================================================
+2026-06-15 20:55:29,623 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 20:55:29,623 [INFO] scanner — ============================================================
+2026-06-15 20:55:32,439 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 20:55:35,123 [INFO] data_fetcher — Filtered to 65 coins
+2026-06-15 20:55:35,123 [INFO] scanner — After volume/volatility filter: 65 coins
+2026-06-15 20:55:35,125 [INFO] scanner — Analysing ALL 65 candidates...
+2026-06-15 20:55:40,627 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (43/55 minimum)
+2026-06-15 20:55:41,997 [INFO] scanner — ⬛ ADAUSDT: score too low (39/55 minimum)
+2026-06-15 20:55:42,111 [INFO] scanner — ⬛ ASTERUSDT: score too low (48/55 minimum)
+2026-06-15 20:55:42,241 [INFO] scanner — ⬛ AAVEUSDT: score too low (43/55 minimum)
+2026-06-15 20:55:42,265 [INFO] scanner — ⬛ APTUSDT: score too low (47/55 minimum)
+2026-06-15 20:55:42,302 [INFO] scanner — ⬛ ARBUSDT: score too low (44/55 minimum)
+2026-06-15 20:55:42,560 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (43/55 minimum)
+2026-06-15 20:55:43,076 [INFO] scanner — ⬛ ALLOUSDT: score too low (47/55 minimum)
+2026-06-15 20:55:53,166 [INFO] scanner — ⬛ AVAXUSDT: score too low (46/55 minimum)
+2026-06-15 20:55:55,010 [INFO] scanner — ⬛ BTCUSDT: score too low (48/55 minimum)
+2026-06-15 20:55:56,216 [INFO] scanner — ⬛ BCHUSDT: score too low (39/55 minimum)
+2026-06-15 20:55:56,417 [INFO] scanner — ⬛ CLOUSDT: score too low (42/55 minimum)
+2026-06-15 20:55:56,812 [INFO] scanner — ⬛ CHIPUSDT: score too low (45/55 minimum)
+2026-06-15 20:55:56,816 [INFO] scanner — ⬛ BNBUSDT: score too low (44/55 minimum)
+2026-06-15 20:55:59,233 [INFO] scanner — ⛔ CLUSDT: SHORT rejected — only 1/3 confirmations
+2026-06-15 20:55:59,994 [INFO] scanner — ⬛ BABYUSDT: score too low (46/55 minimum)
+2026-06-15 20:56:01,540 [INFO] scanner — ⬛ DOGEUSDT: score too low (47/55 minimum)
+2026-06-15 20:56:02,159 [INFO] scanner — ⬛ DOTUSDT: score too low (43/55 minimum)
+2026-06-15 20:56:02,435 [INFO] scanner — ⬛ ENAUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:02,437 [INFO] scanner — ⬛ EIGENUSDT: score too low (46/55 minimum)
+2026-06-15 20:56:02,438 [INFO] scanner — Progress: 20/65 analysed | 0 valid | 27s elapsed
+2026-06-15 20:56:02,535 [INFO] scanner — ⛔ ETHUSDT: ANTI-CHASE: Chasing pump: up 9.5% + 1h RSI=83 — no structural backing
+2026-06-15 20:56:02,945 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (50/55 minimum)
+2026-06-15 20:56:06,042 [INFO] scanner — ⬛ FILUSDT: score too low (41/55 minimum)
+2026-06-15 20:56:06,053 [INFO] scanner — ⬛ GALAUSDT: score too low (44/55 minimum)
+2026-06-15 20:56:07,838 [INFO] scanner — ⬛ HBARUSDT: score too low (48/55 minimum)
+2026-06-15 20:56:07,887 [INFO] scanner — ⬛ HOMEUSDT: score too low (44/55 minimum)
+2026-06-15 20:56:08,015 [INFO] scanner — ⬛ HYPEUSDT: score too low (44/55 minimum)
+2026-06-15 20:56:08,101 [INFO] scanner — ⬛ INJUSDT: score too low (41/55 minimum)
+2026-06-15 20:56:08,163 [INFO] scanner — ⬛ IPUSDT: score too low (38/55 minimum)
+2026-06-15 20:56:08,598 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (41/55 minimum)
+2026-06-15 20:56:11,231 [INFO] scanner — ⬛ LINKUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:11,751 [INFO] scanner — ⬛ JUPUSDT: score too low (50/55 minimum)
+2026-06-15 20:56:13,301 [INFO] scanner — ⬛ LITUSDT: score too low (47/55 minimum)
+2026-06-15 20:56:13,442 [INFO] scanner — ⬛ MEGAUSDT: score too low (41/55 minimum)
+2026-06-15 20:56:13,490 [INFO] scanner — ⬛ LTCUSDT: score too low (44/55 minimum)
+2026-06-15 20:56:13,611 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 20:56:13,663 [INFO] scanner — ⬛ MNTUSDT: score too low (46/55 minimum)
+2026-06-15 20:56:14,471 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 20:56:16,990 [INFO] scanner — ⬛ OPUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:16,999 [INFO] scanner — ⬛ ONDOUSDT: score too low (45/55 minimum)
+2026-06-15 20:56:17,000 [INFO] scanner — Progress: 40/65 analysed | 0 valid | 42s elapsed
+2026-06-15 20:56:17,993 [INFO] scanner — ⬛ PENGUUSDT: score too low (47/55 minimum)
+2026-06-15 20:56:18,136 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:18,911 [INFO] scanner — ⬛ SHIB1000USDT: score too low (47/55 minimum)
+2026-06-15 20:56:18,916 [INFO] scanner — ⬛ SIRENUSDT: score too low (43/55 minimum)
+2026-06-15 20:56:19,044 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 20:56:20,447 [INFO] scanner — ⛔ RENDERUSDT: SHORT rejected — only 0/3 confirmations
+2026-06-15 20:56:21,666 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 20:56:22,376 [INFO] scanner — ⛔ SOLUSDT: ANTI-CHASE: Chasing pump: up 11.3% + 1h RSI=91 — no structural backing
+2026-06-15 20:56:22,661 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 20:56:23,190 [INFO] scanner — ⬛ STGUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:23,904 [INFO] scanner — ⬛ SUIUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:24,195 [INFO] scanner — ⬛ TAOUSDT: score too low (46/55 minimum)
+2026-06-15 20:56:24,356 [INFO] scanner — ⬛ STRKUSDT: score too low (46/55 minimum)
+2026-06-15 20:56:25,115 [INFO] scanner — ⬛ TIAUSDT: score too low (37/55 minimum)
+2026-06-15 20:56:26,968 [INFO] scanner — ⬛ UNIUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:28,056 [INFO] scanner — ⬛ VELVETUSDT: score too low (53/55 minimum)
+2026-06-15 20:56:28,438 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (50/55 minimum)
+2026-06-15 20:56:28,709 [INFO] scanner — ⬛ WIFUSDT: score too low (40/55 minimum)
+2026-06-15 20:56:29,563 [INFO] scanner — ⬛ WLFIUSDT: score too low (45/55 minimum)
+2026-06-15 20:56:30,188 [INFO] scanner — ⬛ XAGUSDT: score too low (45/55 minimum)
+2026-06-15 20:56:30,189 [INFO] scanner — Progress: 60/65 analysed | 0 valid | 55s elapsed
+2026-06-15 20:56:31,162 [INFO] scanner — ⬛ XAUUSDT: score too low (42/55 minimum)
+2026-06-15 20:56:31,933 [INFO] scanner — ⬛ XAUTUSDT: score too low (44/55 minimum)
+2026-06-15 20:56:32,190 [INFO] scanner — ⬛ XMRUSDT: score too low (49/55 minimum)
+2026-06-15 20:56:32,860 [INFO] scanner — ⬛ XPLUSDT: score too low (43/55 minimum)
+2026-06-15 20:56:33,318 [INFO] scanner — ⛔ XRPUSDT: ANTI-CHASE: Chasing pump: up 12.2% + 1h RSI=87 — no structural backing
+2026-06-15 20:56:33,319 [INFO] scanner — Full scan complete in 58s — 0 valid signals found
+2026-06-15 20:56:33,319 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 20:56:33,319 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 20:56:34,145 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 20:56:34,146 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 20:56:34,146 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 21:46:28,837 [INFO] main — ============================================================
+2026-06-15 21:46:28,838 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 21:46:28,838 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 21:46:28,838 [INFO] main — ============================================================
+2026-06-15 21:46:30,519 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 21:46:30,520 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 21:46:30,520 [INFO] scanner — ============================================================
+2026-06-15 21:46:30,520 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 21:46:30,520 [INFO] scanner — ============================================================
+2026-06-15 21:46:32,149 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 21:46:34,042 [INFO] data_fetcher — Filtered to 65 coins
+2026-06-15 21:46:34,043 [INFO] scanner — After volume/volatility filter: 65 coins
+2026-06-15 21:46:34,044 [INFO] scanner — Analysing ALL 65 candidates...
+2026-06-15 21:46:39,207 [INFO] scanner — ⬛ ARBUSDT: score too low (44/55 minimum)
+2026-06-15 21:46:39,438 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (43/55 minimum)
+2026-06-15 21:46:39,926 [INFO] scanner — ⬛ ADAUSDT: score too low (40/55 minimum)
+2026-06-15 21:46:40,053 [INFO] scanner — ⬛ APTUSDT: score too low (40/55 minimum)
+2026-06-15 21:46:43,496 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 21:46:44,194 [INFO] scanner — ⬛ AAVEUSDT: score too low (38/55 minimum)
+2026-06-15 21:46:45,845 [INFO] scanner — ⬛ ALLOUSDT: score too low (44/55 minimum)
+2026-06-15 21:46:47,320 [INFO] scanner — ⬛ ASTERUSDT: score too low (51/55 minimum)
+2026-06-15 21:46:59,021 [INFO] scanner — ⬛ AVAXUSDT: score too low (42/55 minimum)
+2026-06-15 21:46:59,374 [INFO] scanner — ⬛ BCHUSDT: score too low (41/55 minimum)
+2026-06-15 21:46:59,448 [INFO] scanner — ⬛ ATOMUSDT: score too low (39/55 minimum)
+2026-06-15 21:47:00,341 [INFO] scanner — ⬛ BTCUSDT: score too low (40/55 minimum)
+2026-06-15 21:47:00,492 [INFO] scanner — ⬛ CHIPUSDT: score too low (38/55 minimum)
+2026-06-15 21:47:02,973 [INFO] scanner — ⬛ BNBUSDT: score too low (46/55 minimum)
+2026-06-15 21:47:08,336 [INFO] scanner — ⬛ DOGEUSDT: score too low (48/55 minimum)
+2026-06-15 21:47:08,635 [INFO] scanner — ⬛ BABYUSDT: score too low (46/55 minimum)
+2026-06-15 21:47:19,159 [INFO] scanner — ⬛ EIGENUSDT: score too low (44/55 minimum)
+2026-06-15 21:47:19,569 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (51/55 minimum)
+2026-06-15 21:47:19,707 [INFO] scanner — ⬛ ENAUSDT: score too low (44/55 minimum)
+2026-06-15 21:47:22,530 [INFO] scanner — ⬛ ETHUSDT: score too low (46/55 minimum)
+2026-06-15 21:47:22,531 [INFO] scanner — Progress: 20/65 analysed | 0 valid | 48s elapsed
+2026-06-15 21:47:22,609 [INFO] scanner — ⬛ DOTUSDT: score too low (39/55 minimum)
+2026-06-15 21:47:24,952 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (40/55 minimum)
+2026-06-15 21:47:27,935 [INFO] scanner — ⬛ FILUSDT: score too low (46/55 minimum)
+2026-06-15 21:47:28,326 [INFO] scanner — ⬛ HBARUSDT: score too low (42/55 minimum)
+2026-06-15 21:47:28,331 [INFO] scanner — ⬛ HYPEUSDT: score too low (43/55 minimum)
+2026-06-15 21:47:29,313 [INFO] scanner — ⬛ GALAUSDT: score too low (44/55 minimum)
+2026-06-15 21:47:29,911 [INFO] scanner — ⛔ INJUSDT: ANTI-CHASE: Chasing pump: up 13.9% + 1h RSI=82 — no structural backing
+2026-06-15 21:47:30,286 [INFO] scanner — ⬛ HOMEUSDT: score too low (38/55 minimum)
+2026-06-15 21:47:31,215 [INFO] scanner — ⬛ ICPUSDT: score too low (42/55 minimum)
+2026-06-15 21:47:34,846 [INFO] scanner — ⬛ IPUSDT: score too low (40/55 minimum)
+2026-06-15 21:47:38,035 [INFO] scanner — ⬛ LITUSDT: score too low (49/55 minimum)
+2026-06-15 21:47:38,039 [INFO] scanner — ⬛ LINKUSDT: score too low (39/55 minimum)
+2026-06-15 21:47:38,088 [INFO] scanner — ⬛ JUPUSDT: score too low (43/55 minimum)
+2026-06-15 21:47:38,268 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (45/55 minimum)
+2026-06-15 21:47:38,989 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 21:47:41,222 [INFO] scanner — ⬛ MEGAUSDT: score too low (37/55 minimum)
+2026-06-15 21:47:42,633 [INFO] scanner — ⬛ MNTUSDT: score too low (43/55 minimum)
+2026-06-15 21:47:44,805 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 21:47:46,821 [INFO] scanner — ⬛ OPUSDT: score too low (46/55 minimum)
+2026-06-15 21:47:47,225 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 21:47:47,226 [INFO] scanner — Progress: 40/65 analysed | 0 valid | 73s elapsed
+2026-06-15 21:47:47,283 [INFO] scanner — ⬛ ONDOUSDT: score too low (45/55 minimum)
+2026-06-15 21:47:47,426 [INFO] scanner — ⬛ PENGUUSDT: score too low (47/55 minimum)
+2026-06-15 21:47:47,693 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (46/55 minimum)
+2026-06-15 21:47:49,473 [INFO] scanner — ⬛ RENDERUSDT: score too low (49/55 minimum)
+2026-06-15 21:47:50,596 [INFO] scanner — ⬛ SHIB1000USDT: score too low (41/55 minimum)
+2026-06-15 21:47:54,148 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 21:47:55,883 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 21:47:57,454 [INFO] scanner — ⬛ STRKUSDT: score too low (45/55 minimum)
+2026-06-15 21:47:57,493 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 21:47:57,509 [INFO] scanner — ⬛ STGUSDT: score too low (41/55 minimum)
+2026-06-15 21:47:57,539 [INFO] scanner — ⛔ SOLUSDT: ANTI-CHASE: Chasing pump: up 10.4% + 1h RSI=86 — no structural backing
+2026-06-15 21:48:00,380 [INFO] scanner — ⬛ SUIUSDT: score too low (42/55 minimum)
+2026-06-15 21:48:00,854 [INFO] scanner — ⬛ TIAUSDT: score too low (42/55 minimum)
+2026-06-15 21:48:02,653 [INFO] scanner — ⬛ UNIUSDT: score too low (42/55 minimum)
+2026-06-15 21:48:07,161 [INFO] scanner — ⬛ VELVETUSDT: score too low (52/55 minimum)
+2026-06-15 21:48:07,322 [INFO] scanner — ⬛ WIFUSDT: score too low (39/55 minimum)
+2026-06-15 21:48:08,344 [INFO] scanner — ⬛ VVVUSDT: score too low (31/55 minimum)
+2026-06-15 21:48:09,184 [INFO] scanner — ⬛ WLFIUSDT: score too low (49/55 minimum)
+2026-06-15 21:48:09,489 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (46/55 minimum)
+2026-06-15 21:48:11,549 [INFO] scanner — ⬛ XAGUSDT: score too low (46/55 minimum)
+2026-06-15 21:48:11,549 [INFO] scanner — Progress: 60/65 analysed | 0 valid | 98s elapsed
+2026-06-15 21:48:12,576 [INFO] scanner — ⬛ XAUTUSDT: score too low (48/55 minimum)
+2026-06-15 21:48:13,257 [INFO] scanner — ⬛ XAUUSDT: score too low (48/55 minimum)
+2026-06-15 21:48:14,850 [INFO] scanner — ⬛ XMRUSDT: score too low (51/55 minimum)
+2026-06-15 21:48:14,896 [INFO] scanner — ⬛ XPLUSDT: score too low (36/55 minimum)
+2026-06-15 21:48:16,155 [INFO] scanner — ⛔ XRPUSDT: ANTI-CHASE: Chasing pump: up 11.5% + 1h RSI=88 — no structural backing
+2026-06-15 21:48:16,156 [INFO] scanner — Full scan complete in 102s — 0 valid signals found
+2026-06-15 21:48:16,156 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 21:48:16,156 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 21:48:17,162 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 21:48:17,163 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 21:48:17,163 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 21:57:03,345 [INFO] main — ============================================================
+2026-06-15 21:57:03,346 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 21:57:03,346 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 21:57:03,346 [INFO] main — ============================================================
+2026-06-15 21:57:04,784 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 21:57:04,784 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 21:57:04,785 [INFO] scanner — ============================================================
+2026-06-15 21:57:04,785 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 21:57:04,785 [INFO] scanner — ============================================================
+2026-06-15 21:57:08,233 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 21:57:10,050 [INFO] data_fetcher — Filtered to 69 coins
+2026-06-15 21:57:10,050 [INFO] scanner — After volume/volatility filter: 69 coins
+2026-06-15 21:57:10,051 [INFO] scanner — Analysing ALL 69 candidates...
+2026-06-15 21:57:18,028 [INFO] scanner — ⬛ ARBUSDT: score too low (44/55 minimum)
+2026-06-15 21:57:18,176 [INFO] scanner — ⬛ AAVEUSDT: score too low (38/55 minimum)
+2026-06-15 21:57:18,677 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (43/55 minimum)
+2026-06-15 21:57:18,971 [INFO] scanner — ⬛ APTUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:19,068 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 21:57:19,198 [INFO] scanner — ⬛ ADAUSDT: score too low (42/55 minimum)
+2026-06-15 21:57:19,467 [INFO] scanner — ⬛ ALLOUSDT: score too low (49/55 minimum)
+2026-06-15 21:57:19,800 [INFO] scanner — ⬛ ASTERUSDT: score too low (51/55 minimum)
+2026-06-15 21:57:26,311 [INFO] scanner — ⬛ ATOMUSDT: score too low (41/55 minimum)
+2026-06-15 21:57:27,131 [INFO] scanner — ⬛ BCHUSDT: score too low (42/55 minimum)
+2026-06-15 21:57:27,152 [INFO] scanner — ⬛ BNBUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:27,577 [INFO] scanner — ⬛ AVAXUSDT: score too low (42/55 minimum)
+2026-06-15 21:57:28,285 [INFO] scanner — ⬛ CHIPUSDT: score too low (38/55 minimum)
+2026-06-15 21:57:28,324 [INFO] scanner — ⬛ CLOUSDT: score too low (40/55 minimum)
+2026-06-15 21:57:28,489 [INFO] scanner — ⬛ BABYUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:29,044 [INFO] scanner — ⬛ BTCUSDT: score too low (40/55 minimum)
+2026-06-15 21:57:33,171 [INFO] scanner — ⬛ CLUSDT: score too low (54/55 minimum)
+2026-06-15 21:57:34,295 [INFO] scanner — ⬛ DOGEUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:34,483 [INFO] scanner — ⬛ EIGENUSDT: score too low (45/55 minimum)
+2026-06-15 21:57:34,680 [INFO] scanner — ⬛ DOTUSDT: score too low (40/55 minimum)
+2026-06-15 21:57:34,681 [INFO] scanner — Progress: 20/69 analysed | 0 valid | 25s elapsed
+2026-06-15 21:57:35,395 [INFO] scanner — ⬛ ENAUSDT: score too low (44/55 minimum)
+2026-06-15 21:57:35,405 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (51/55 minimum)
+2026-06-15 21:57:35,607 [INFO] scanner — ⬛ ETHUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:36,011 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (41/55 minimum)
+2026-06-15 21:57:40,103 [INFO] scanner — ⬛ FILUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:40,919 [INFO] scanner — ⬛ HOMEUSDT: score too low (36/55 minimum)
+2026-06-15 21:57:41,102 [INFO] scanner — ⬛ HBARUSDT: score too low (44/55 minimum)
+2026-06-15 21:57:41,104 [INFO] scanner — ⬛ GALAUSDT: score too low (44/55 minimum)
+2026-06-15 21:57:42,066 [INFO] scanner — ⬛ ICPUSDT: score too low (41/55 minimum)
+2026-06-15 21:57:42,091 [INFO] scanner — ⬛ HYPEUSDT: score too low (43/55 minimum)
+2026-06-15 21:57:42,096 [INFO] scanner — ⛔ INJUSDT: ANTI-CHASE: Chasing pump: up 13.9% + 1h RSI=81 — no structural backing
+2026-06-15 21:57:42,499 [INFO] scanner — ⬛ IPUSDT: score too low (41/55 minimum)
+2026-06-15 21:57:47,422 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (45/55 minimum)
+2026-06-15 21:57:47,452 [INFO] scanner — ⬛ JUPUSDT: score too low (44/55 minimum)
+2026-06-15 21:57:47,462 [INFO] scanner — ⬛ LITUSDT: score too low (49/55 minimum)
+2026-06-15 21:57:47,617 [INFO] scanner — ⬛ LINKUSDT: score too low (40/55 minimum)
+2026-06-15 21:57:47,749 [INFO] scanner — ⬛ LABUSDT: score too low (47/55 minimum)
+2026-06-15 21:57:48,077 [INFO] scanner — ⬛ MNTUSDT: score too low (43/55 minimum)
+2026-06-15 21:57:48,928 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 21:57:49,426 [INFO] scanner — ⬛ MEGAUSDT: score too low (40/55 minimum)
+2026-06-15 21:57:49,427 [INFO] scanner — Progress: 40/69 analysed | 0 valid | 39s elapsed
+2026-06-15 21:57:52,399 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 21:57:52,505 [INFO] scanner — ⬛ PENGUUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:52,510 [INFO] scanner — ⬛ ONDOUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:52,833 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 21:57:52,898 [INFO] scanner — ⬛ OPUSDT: score too low (44/55 minimum)
+2026-06-15 21:57:53,431 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (43/55 minimum)
+2026-06-15 21:57:53,879 [INFO] scanner — ⬛ RENDERUSDT: score too low (45/55 minimum)
+2026-06-15 21:57:54,377 [INFO] scanner — ⬛ SHIB1000USDT: score too low (44/55 minimum)
+2026-06-15 21:57:57,295 [INFO] scanner — ⛔ SOLUSDT: ANTI-CHASE: Chasing pump: up 10.4% + 1h RSI=84 — no structural backing
+2026-06-15 21:57:57,753 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 21:57:57,757 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 21:57:57,768 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 21:57:58,692 [INFO] scanner — ⬛ STGUSDT: score too low (40/55 minimum)
+2026-06-15 21:57:58,918 [INFO] scanner — ⬛ SUIUSDT: score too low (42/55 minimum)
+2026-06-15 21:57:58,930 [INFO] scanner — ⬛ STRKUSDT: score too low (46/55 minimum)
+2026-06-15 21:57:59,984 [INFO] scanner — ⬛ TAOUSDT: score too low (36/55 minimum)
+2026-06-15 21:58:02,882 [INFO] scanner — ⬛ TIAUSDT: score too low (40/55 minimum)
+2026-06-15 21:58:02,988 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (41/55 minimum)
+2026-06-15 21:58:03,579 [INFO] scanner — ⬛ VELVETUSDT: score too low (51/55 minimum)
+2026-06-15 21:58:03,942 [INFO] scanner — ⬛ UNIUSDT: score too low (41/55 minimum)
+2026-06-15 21:58:03,943 [INFO] scanner — Progress: 60/69 analysed | 0 valid | 54s elapsed
+2026-06-15 21:58:04,415 [INFO] scanner — ⬛ WIFUSDT: score too low (40/55 minimum)
+2026-06-15 21:58:04,801 [INFO] scanner — ⬛ WLFIUSDT: score too low (47/55 minimum)
+2026-06-15 21:58:04,945 [INFO] scanner — ⬛ VVVUSDT: score too low (33/55 minimum)
+2026-06-15 21:58:05,710 [INFO] scanner — ⬛ XAGUSDT: score too low (45/55 minimum)
+2026-06-15 21:58:08,616 [INFO] scanner — ⬛ XAUTUSDT: score too low (48/55 minimum)
+2026-06-15 21:58:08,642 [INFO] scanner — ⛔ XMRUSDT: ANTI-CHASE: Chasing pump: up 10.9% + 1h RSI=82 — no structural backing
+2026-06-15 21:58:08,842 [INFO] scanner — ⬛ XAUUSDT: score too low (48/55 minimum)
+2026-06-15 21:58:09,477 [INFO] scanner — ⬛ XPLUSDT: score too low (37/55 minimum)
+2026-06-15 21:58:10,455 [INFO] scanner — ⛔ XRPUSDT: ANTI-CHASE: Chasing pump: up 11.1% + 1h RSI=83 — no structural backing
+2026-06-15 21:58:10,457 [INFO] scanner — Full scan complete in 60s — 0 valid signals found
+2026-06-15 21:58:10,457 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 21:58:10,457 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 21:58:11,309 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 21:58:11,310 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 21:58:11,310 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 22:07:14,866 [INFO] main — ============================================================
+2026-06-15 22:07:14,867 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 22:07:14,867 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 22:07:14,867 [INFO] main — ============================================================
+2026-06-15 22:07:15,591 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 22:07:15,591 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 22:07:15,592 [INFO] scanner — ============================================================
+2026-06-15 22:07:15,592 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 22:07:15,593 [INFO] scanner — ============================================================
+2026-06-15 22:07:16,698 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 22:07:17,369 [INFO] data_fetcher — Filtered to 67 coins
+2026-06-15 22:07:17,370 [INFO] scanner — After volume/volatility filter: 67 coins
+2026-06-15 22:07:17,371 [INFO] scanner — Analysing ALL 67 candidates...
+2026-06-15 22:07:21,784 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 22:07:22,316 [INFO] scanner — ⬛ AAVEUSDT: score too low (38/55 minimum)
+2026-06-15 22:07:22,361 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (40/55 minimum)
+2026-06-15 22:07:22,618 [INFO] scanner — ⬛ ASTERUSDT: score too low (49/55 minimum)
+2026-06-15 22:07:22,694 [INFO] scanner — ⬛ APTUSDT: score too low (48/55 minimum)
+2026-06-15 22:07:22,763 [INFO] scanner — ⬛ ALLOUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:22,838 [INFO] scanner — ⬛ ARBUSDT: score too low (43/55 minimum)
+2026-06-15 22:07:22,847 [INFO] scanner — ⬛ ADAUSDT: score too low (40/55 minimum)
+2026-06-15 22:07:26,154 [INFO] scanner — ⬛ ATOMUSDT: score too low (39/55 minimum)
+2026-06-15 22:07:26,890 [INFO] scanner — ⬛ AVAXUSDT: score too low (42/55 minimum)
+2026-06-15 22:07:26,941 [INFO] scanner — ⬛ BABYUSDT: score too low (43/55 minimum)
+2026-06-15 22:07:27,276 [INFO] scanner — ⬛ BCHUSDT: score too low (40/55 minimum)
+2026-06-15 22:07:27,371 [INFO] scanner — ⬛ BTCUSDT: score too low (41/55 minimum)
+2026-06-15 22:07:27,588 [INFO] scanner — ⬛ CHIPUSDT: score too low (38/55 minimum)
+2026-06-15 22:07:27,634 [INFO] scanner — ⬛ CLOUSDT: score too low (39/55 minimum)
+2026-06-15 22:07:27,871 [INFO] scanner — ⬛ BNBUSDT: score too low (45/55 minimum)
+2026-06-15 22:07:30,692 [INFO] scanner — ⬛ CLUSDT: score too low (52/55 minimum)
+2026-06-15 22:07:31,290 [INFO] scanner — ⬛ DOGEUSDT: score too low (47/55 minimum)
+2026-06-15 22:07:31,617 [INFO] scanner — ⬛ EIGENUSDT: score too low (45/55 minimum)
+2026-06-15 22:07:31,818 [INFO] scanner — ⬛ DOTUSDT: score too low (40/55 minimum)
+2026-06-15 22:07:31,827 [INFO] scanner — Progress: 20/67 analysed | 0 valid | 14s elapsed
+2026-06-15 22:07:31,855 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (51/55 minimum)
+2026-06-15 22:07:32,675 [INFO] scanner — ⛔ ETHUSDT: ANTI-CHASE: Chasing pump: up 8.7% + 1h RSI=81 — no structural backing
+2026-06-15 22:07:32,727 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (37/55 minimum)
+2026-06-15 22:07:32,815 [INFO] scanner — ⬛ ENAUSDT: score too low (44/55 minimum)
+2026-06-15 22:07:35,273 [INFO] scanner — ⬛ FILUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:36,097 [INFO] scanner — ⬛ HBARUSDT: score too low (45/55 minimum)
+2026-06-15 22:07:36,357 [INFO] scanner — ⬛ HYPEUSDT: score too low (43/55 minimum)
+2026-06-15 22:07:36,399 [INFO] scanner — ⬛ GALAUSDT: score too low (44/55 minimum)
+2026-06-15 22:07:36,679 [INFO] scanner — ⬛ HOMEUSDT: score too low (36/55 minimum)
+2026-06-15 22:07:37,430 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:37,816 [INFO] scanner — ⛔ INJUSDT: ANTI-CHASE: Chasing pump: up 14.5% + 1h RSI=82 — no structural backing
+2026-06-15 22:07:38,473 [INFO] scanner — ⬛ IPUSDT: score too low (42/55 minimum)
+2026-06-15 22:07:40,327 [INFO] scanner — ⬛ JUPUSDT: score too low (44/55 minimum)
+2026-06-15 22:07:40,780 [INFO] scanner — ⬛ LITUSDT: score too low (54/55 minimum)
+2026-06-15 22:07:41,042 [INFO] scanner — ⬛ LABUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:41,207 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 22:07:41,358 [INFO] scanner — ⬛ LINKUSDT: score too low (40/55 minimum)
+2026-06-15 22:07:42,098 [INFO] scanner — ⬛ MNTUSDT: score too low (43/55 minimum)
+2026-06-15 22:07:42,376 [INFO] scanner — ⬛ MEGAUSDT: score too low (38/55 minimum)
+2026-06-15 22:07:43,939 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 22:07:43,940 [INFO] scanner — Progress: 40/67 analysed | 0 valid | 27s elapsed
+2026-06-15 22:07:44,475 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 22:07:45,381 [INFO] scanner — ⬛ ONDOUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:45,502 [INFO] scanner — ⬛ PENGUUSDT: score too low (39/55 minimum)
+2026-06-15 22:07:45,832 [INFO] scanner — ⬛ OPUSDT: score too low (44/55 minimum)
+2026-06-15 22:07:45,834 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:46,916 [INFO] scanner — ⬛ SHIB1000USDT: score too low (45/55 minimum)
+2026-06-15 22:07:47,202 [INFO] scanner — ⬛ RENDERUSDT: score too low (45/55 minimum)
+2026-06-15 22:07:48,536 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 22:07:49,195 [INFO] scanner — ⛔ SOLUSDT: ANTI-CHASE: Chasing pump: up 10.1% + 1h RSI=84 — no structural backing
+2026-06-15 22:07:49,977 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 22:07:50,297 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 22:07:50,729 [INFO] scanner — ⬛ SUIUSDT: score too low (43/55 minimum)
+2026-06-15 22:07:51,016 [INFO] scanner — ⬛ STRKUSDT: score too low (45/55 minimum)
+2026-06-15 22:07:51,720 [INFO] scanner — ⬛ TAOUSDT: score too low (34/55 minimum)
+2026-06-15 22:07:52,695 [INFO] scanner — ⬛ TIAUSDT: score too low (40/55 minimum)
+2026-06-15 22:07:53,434 [INFO] scanner — ⬛ UNIUSDT: score too low (39/55 minimum)
+2026-06-15 22:07:54,152 [INFO] scanner — ⬛ VELVETUSDT: score too low (47/55 minimum)
+2026-06-15 22:07:54,391 [INFO] scanner — ⬛ VVVUSDT: score too low (32/55 minimum)
+2026-06-15 22:07:54,633 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (43/55 minimum)
+2026-06-15 22:07:55,649 [INFO] scanner — ⬛ WLFIUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:55,654 [INFO] scanner — Progress: 60/67 analysed | 0 valid | 38s elapsed
+2026-06-15 22:07:55,658 [INFO] scanner — ⬛ WIFUSDT: score too low (40/55 minimum)
+2026-06-15 22:07:56,380 [INFO] scanner — ⬛ XAGUSDT: score too low (43/55 minimum)
+2026-06-15 22:07:57,742 [INFO] scanner — ⬛ XAUTUSDT: score too low (46/55 minimum)
+2026-06-15 22:07:57,918 [INFO] scanner — ⬛ XAUUSDT: score too low (45/55 minimum)
+2026-06-15 22:07:58,567 [INFO] scanner — ⬛ XPLUSDT: score too low (37/55 minimum)
+2026-06-15 22:07:58,640 [INFO] scanner — ⛔ XMRUSDT: ANTI-CHASE: Chasing pump: up 12.4% + 1h RSI=83 — no structural backing
+2026-06-15 22:07:58,793 [INFO] scanner — ⬛ XRPUSDT: score too low (49/55 minimum)
+2026-06-15 22:07:58,795 [INFO] scanner — Full scan complete in 41s — 0 valid signals found
+2026-06-15 22:07:58,795 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 22:07:58,795 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 22:07:59,520 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 22:07:59,521 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 22:07:59,522 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 22:11:07,351 [INFO] main — ============================================================
+2026-06-15 22:11:07,351 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 22:11:07,352 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 22:11:07,352 [INFO] main — ============================================================
+2026-06-15 22:11:08,085 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 22:11:08,086 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 22:11:08,087 [INFO] scanner — ============================================================
+2026-06-15 22:11:08,087 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 22:11:08,088 [INFO] scanner — ============================================================
+2026-06-15 22:11:08,996 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 22:11:11,040 [INFO] data_fetcher — Filtered to 65 coins
+2026-06-15 22:11:11,041 [INFO] scanner — After volume/volatility filter: 65 coins
+2026-06-15 22:11:11,042 [INFO] scanner — Analysing ALL 65 candidates...
+2026-06-15 22:11:19,067 [INFO] scanner — ⬛ ALLOUSDT: score too low (45/55 minimum)
+2026-06-15 22:11:19,213 [INFO] scanner — ⬛ ADAUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:19,248 [INFO] scanner — ⬛ AAVEUSDT: score too low (38/55 minimum)
+2026-06-15 22:11:19,487 [INFO] scanner — ⬛ ASTERUSDT: score too low (49/55 minimum)
+2026-06-15 22:11:19,497 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 22:11:20,300 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (39/55 minimum)
+2026-06-15 22:11:20,323 [INFO] scanner — ⬛ ARBUSDT: score too low (43/55 minimum)
+2026-06-15 22:11:20,325 [INFO] scanner — ⬛ APTUSDT: score too low (48/55 minimum)
+2026-06-15 22:11:25,235 [INFO] scanner — ⬛ BCHUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:25,285 [INFO] scanner — ⬛ AVAXUSDT: score too low (43/55 minimum)
+2026-06-15 22:11:25,532 [INFO] scanner — ⬛ ATOMUSDT: score too low (42/55 minimum)
+2026-06-15 22:11:25,546 [INFO] scanner — ⬛ BABYUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:25,561 [INFO] scanner — ⬛ BNBUSDT: score too low (45/55 minimum)
+2026-06-15 22:11:25,679 [INFO] scanner — ⬛ BTCUSDT: score too low (42/55 minimum)
+2026-06-15 22:11:26,192 [INFO] scanner — ⬛ CHIPUSDT: score too low (37/55 minimum)
+2026-06-15 22:11:26,201 [INFO] scanner — ⬛ CLOUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:29,818 [INFO] scanner — ⬛ DOGEUSDT: score too low (47/55 minimum)
+2026-06-15 22:11:30,276 [INFO] scanner — ⬛ CLUSDT: score too low (51/55 minimum)
+2026-06-15 22:11:30,346 [INFO] scanner — ⬛ DOTUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:30,354 [INFO] scanner — ⬛ EIGENUSDT: score too low (45/55 minimum)
+2026-06-15 22:11:30,355 [INFO] scanner — Progress: 20/65 analysed | 0 valid | 19s elapsed
+2026-06-15 22:11:30,506 [INFO] scanner — ⛔ ETHUSDT: ANTI-CHASE: Chasing pump: up 8.8% + 1h RSI=81 — no structural backing
+2026-06-15 22:11:30,773 [INFO] scanner — ⬛ ENAUSDT: score too low (44/55 minimum)
+2026-06-15 22:11:30,870 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (42/55 minimum)
+2026-06-15 22:11:31,370 [INFO] scanner — ⬛ FILUSDT: score too low (46/55 minimum)
+2026-06-15 22:11:34,569 [INFO] scanner — ⬛ GALAUSDT: score too low (44/55 minimum)
+2026-06-15 22:11:35,159 [INFO] scanner — ⬛ HOMEUSDT: score too low (36/55 minimum)
+2026-06-15 22:11:35,193 [INFO] scanner — ⬛ HYPEUSDT: score too low (44/55 minimum)
+2026-06-15 22:11:35,389 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (46/55 minimum)
+2026-06-15 22:11:35,437 [INFO] scanner — ⬛ HBARUSDT: score too low (46/55 minimum)
+2026-06-15 22:11:35,679 [INFO] scanner — ⛔ INJUSDT: ANTI-CHASE: Chasing pump: up 14.5% + 1h RSI=82 — no structural backing
+2026-06-15 22:11:35,948 [INFO] scanner — ⬛ IPUSDT: score too low (41/55 minimum)
+2026-06-15 22:11:36,490 [INFO] scanner — ⬛ JUPUSDT: score too low (43/55 minimum)
+2026-06-15 22:11:39,011 [INFO] scanner — ⬛ LABUSDT: score too low (47/55 minimum)
+2026-06-15 22:11:39,482 [INFO] scanner — ⬛ LINKUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:39,678 [INFO] scanner — ⬛ LITUSDT: score too low (51/55 minimum)
+2026-06-15 22:11:40,024 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 22:11:40,033 [INFO] scanner — ⬛ MNTUSDT: score too low (43/55 minimum)
+2026-06-15 22:11:40,811 [INFO] scanner — ⬛ MEGAUSDT: score too low (38/55 minimum)
+2026-06-15 22:11:41,253 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 22:11:41,340 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 22:11:41,341 [INFO] scanner — Progress: 40/65 analysed | 0 valid | 30s elapsed
+2026-06-15 22:11:43,880 [INFO] scanner — ⬛ ONDOUSDT: score too low (46/55 minimum)
+2026-06-15 22:11:44,285 [INFO] scanner — ⬛ OPUSDT: score too low (44/55 minimum)
+2026-06-15 22:11:44,651 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (45/55 minimum)
+2026-06-15 22:11:44,875 [INFO] scanner — ⬛ RENDERUSDT: score too low (45/55 minimum)
+2026-06-15 22:11:45,097 [INFO] scanner — ⬛ PENGUUSDT: score too low (39/55 minimum)
+2026-06-15 22:11:45,450 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 22:11:45,758 [INFO] scanner — ⬛ SHIB1000USDT: score too low (44/55 minimum)
+2026-06-15 22:11:45,964 [INFO] scanner — ⛔ SOLUSDT: ANTI-CHASE: Chasing pump: up 10.3% + 1h RSI=86 — no structural backing
+2026-06-15 22:11:48,769 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 22:11:49,408 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 22:11:49,635 [INFO] scanner — ⬛ SUIUSDT: score too low (43/55 minimum)
+2026-06-15 22:11:49,999 [INFO] scanner — ⬛ STRKUSDT: score too low (44/55 minimum)
+2026-06-15 22:11:50,328 [INFO] scanner — ⬛ TAOUSDT: score too low (35/55 minimum)
+2026-06-15 22:11:50,529 [INFO] scanner — ⬛ VELVETUSDT: score too low (52/55 minimum)
+2026-06-15 22:11:50,562 [INFO] scanner — ⬛ TIAUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:50,657 [INFO] scanner — ⬛ UNIUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:54,586 [INFO] scanner — ⬛ WIFUSDT: score too low (40/55 minimum)
+2026-06-15 22:11:54,750 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (43/55 minimum)
+2026-06-15 22:11:54,950 [INFO] scanner — ⬛ WLFIUSDT: score too low (51/55 minimum)
+2026-06-15 22:11:55,342 [INFO] scanner — ⬛ XAGUSDT: score too low (44/55 minimum)
+2026-06-15 22:11:55,342 [INFO] scanner — Progress: 60/65 analysed | 0 valid | 44s elapsed
+2026-06-15 22:11:55,861 [INFO] scanner — ⬛ XAUUSDT: score too low (44/55 minimum)
+2026-06-15 22:11:55,872 [INFO] scanner — ⬛ XAUTUSDT: score too low (46/55 minimum)
+2026-06-15 22:11:56,039 [INFO] scanner — ⛔ XMRUSDT: ANTI-CHASE: Chasing pump: up 11.5% + 1h RSI=82 — no structural backing
+2026-06-15 22:11:56,188 [INFO] scanner — ⬛ XPLUSDT: score too low (39/55 minimum)
+2026-06-15 22:11:59,560 [INFO] scanner — ⛔ XRPUSDT: ANTI-CHASE: Chasing pump: up 10.3% + 1h RSI=80 — no structural backing
+2026-06-15 22:11:59,561 [INFO] scanner — Full scan complete in 49s — 0 valid signals found
+2026-06-15 22:11:59,561 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 22:11:59,561 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 22:12:00,294 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 22:12:00,295 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 22:12:00,295 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 22:39:16,621 [INFO] main — ============================================================
+2026-06-15 22:39:16,622 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 22:39:16,622 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 22:39:16,623 [INFO] main — ============================================================
+2026-06-15 22:39:17,862 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 22:39:17,863 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 22:39:17,863 [INFO] scanner — ============================================================
+2026-06-15 22:39:17,864 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 22:39:17,864 [INFO] scanner — ============================================================
+2026-06-15 22:39:19,153 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 22:39:20,681 [INFO] data_fetcher — Filtered to 56 coins
+2026-06-15 22:39:20,682 [INFO] scanner — After volume/volatility filter: 56 coins
+2026-06-15 22:39:20,686 [INFO] scanner — Analysing ALL 56 candidates...
+2026-06-15 22:39:27,625 [INFO] scanner — ⬛ ADAUSDT: score too low (42/55 minimum)
+2026-06-15 22:39:27,695 [INFO] scanner — ⬛ ARBUSDT: score too low (45/55 minimum)
+2026-06-15 22:39:27,941 [INFO] scanner — ⬛ ASTERUSDT: score too low (51/55 minimum)
+2026-06-15 22:39:28,106 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 22:39:28,360 [INFO] scanner — ⬛ APTUSDT: score too low (49/55 minimum)
+2026-06-15 22:39:28,408 [INFO] scanner — ⬛ ALLOUSDT: score too low (42/55 minimum)
+2026-06-15 22:39:29,070 [INFO] scanner — ⬛ AAVEUSDT: score too low (38/55 minimum)
+2026-06-15 22:39:29,095 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (40/55 minimum)
+2026-06-15 22:39:34,281 [INFO] scanner — ⬛ ATOMUSDT: score too low (43/55 minimum)
+2026-06-15 22:39:34,401 [INFO] scanner — ⬛ AVAXUSDT: score too low (42/55 minimum)
+2026-06-15 22:39:34,873 [INFO] scanner — ⬛ BCHUSDT: score too low (39/55 minimum)
+2026-06-15 22:39:35,248 [INFO] scanner — ⬛ CHIPUSDT: score too low (38/55 minimum)
+2026-06-15 22:39:36,102 [INFO] scanner — ⬛ BABYUSDT: score too low (47/55 minimum)
+2026-06-15 22:39:36,172 [INFO] scanner — ⬛ BTCUSDT: score too low (42/55 minimum)
+2026-06-15 22:39:36,191 [INFO] scanner — ⬛ CLUSDT: score too low (50/55 minimum)
+2026-06-15 22:39:36,897 [INFO] scanner — ⬛ CLOUSDT: score too low (38/55 minimum)
+2026-06-15 22:39:41,665 [INFO] scanner — ⬛ DOTUSDT: score too low (39/55 minimum)
+2026-06-15 22:39:41,669 [INFO] scanner — ⬛ EIGENUSDT: score too low (45/55 minimum)
+2026-06-15 22:39:42,395 [INFO] scanner — ⬛ ENAUSDT: score too low (43/55 minimum)
+2026-06-15 22:39:43,423 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (39/55 minimum)
+2026-06-15 22:39:43,431 [INFO] scanner — ⬛ HBARUSDT: score too low (45/55 minimum)
+2026-06-15 22:39:43,439 [INFO] scanner — Progress: 20/56 analysed | 0 valid | 23s elapsed
+2026-06-15 22:39:43,460 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (50/55 minimum)
+2026-06-15 22:39:43,547 [INFO] scanner — ⛔ ETHUSDT: ANTI-CHASE: Chasing pump: up 6.4% + 1h RSI=81 — no structural backing
+2026-06-15 22:39:43,743 [INFO] scanner — ⬛ HOMEUSDT: score too low (37/55 minimum)
+2026-06-15 22:39:50,385 [INFO] scanner — ⛔ INJUSDT: ANTI-CHASE: Chasing pump: up 10.2% + 1h RSI=80 — no structural backing
+2026-06-15 22:39:50,859 [INFO] scanner — ⬛ IPUSDT: score too low (40/55 minimum)
+2026-06-15 22:39:51,390 [INFO] scanner — ⬛ HYPEUSDT: score too low (44/55 minimum)
+2026-06-15 22:39:51,653 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (45/55 minimum)
+2026-06-15 22:39:51,863 [INFO] scanner — ⬛ JUPUSDT: score too low (43/55 minimum)
+2026-06-15 22:39:52,685 [INFO] scanner — ⬛ LITUSDT: score too low (52/55 minimum)
+2026-06-15 22:39:52,741 [INFO] scanner — ⬛ LABUSDT: score too low (48/55 minimum)
+2026-06-15 22:39:52,968 [INFO] scanner — ⬛ LINKUSDT: score too low (39/55 minimum)
+2026-06-15 22:39:57,606 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 22:39:57,756 [INFO] scanner — ⬛ MNTUSDT: score too low (43/55 minimum)
+2026-06-15 22:39:58,020 [INFO] scanner — ⬛ MEGAUSDT: score too low (38/55 minimum)
+2026-06-15 22:39:58,025 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 22:39:58,791 [INFO] scanner — ⬛ NEARUSDT: score too low (48/55 minimum)
+2026-06-15 22:39:59,126 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 22:39:59,498 [INFO] scanner — ⬛ ONDOUSDT: score too low (46/55 minimum)
+2026-06-15 22:39:59,685 [INFO] scanner — ⬛ PENGUUSDT: score too low (40/55 minimum)
+2026-06-15 22:39:59,686 [INFO] scanner — Progress: 40/56 analysed | 0 valid | 39s elapsed
+2026-06-15 22:40:04,359 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 22:40:04,366 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 22:40:04,377 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 22:40:04,426 [INFO] scanner — ⛔ SOLUSDT: ANTI-CHASE: Chasing pump: up 6.7% + 1h RSI=81 — no structural backing
+2026-06-15 22:40:05,458 [INFO] scanner — ⬛ STGUSDT: score too low (37/55 minimum)
+2026-06-15 22:40:05,903 [INFO] scanner — ⬛ STRKUSDT: score too low (45/55 minimum)
+2026-06-15 22:40:06,379 [INFO] scanner — ⬛ TIAUSDT: score too low (39/55 minimum)
+2026-06-15 22:40:07,205 [INFO] scanner — ⬛ SUIUSDT: score too low (42/55 minimum)
+2026-06-15 22:40:11,119 [INFO] scanner — ⬛ TRUMPUSDT: score too low (38/55 minimum)
+2026-06-15 22:40:11,146 [INFO] scanner — ⬛ UNIUSDT: score too low (47/55 minimum)
+2026-06-15 22:40:11,172 [INFO] scanner — ⬛ VELVETUSDT: score too low (49/55 minimum)
+2026-06-15 22:40:11,711 [INFO] scanner — ⬛ VVVUSDT: score too low (32/55 minimum)
+2026-06-15 22:40:11,954 [INFO] scanner — ⬛ WIFUSDT: score too low (39/55 minimum)
+2026-06-15 22:40:11,977 [INFO] scanner — ⬛ XAGUSDT: score too low (35/55 minimum)
+2026-06-15 22:40:12,978 [INFO] scanner — ⬛ XMRUSDT: score too low (50/55 minimum)
+2026-06-15 22:40:13,394 [INFO] scanner — ⬛ XRPUSDT: score too low (45/55 minimum)
+2026-06-15 22:40:13,397 [INFO] scanner — Full scan complete in 53s — 0 valid signals found
+2026-06-15 22:40:13,397 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 22:40:13,397 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 22:40:14,745 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 22:40:14,746 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 22:40:14,746 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 22:52:29,369 [INFO] main — ============================================================
+2026-06-15 22:52:29,370 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 22:52:29,370 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 22:52:29,370 [INFO] main — ============================================================
+2026-06-15 22:52:30,485 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 22:52:30,485 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 22:52:30,486 [INFO] scanner — ============================================================
+2026-06-15 22:52:30,486 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 22:52:30,486 [INFO] scanner — ============================================================
+2026-06-15 22:52:31,824 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 22:52:32,914 [INFO] data_fetcher — Filtered to 52 coins
+2026-06-15 22:52:32,915 [INFO] scanner — After volume/volatility filter: 52 coins
+2026-06-15 22:52:32,917 [INFO] scanner — Analysing ALL 52 candidates...
+2026-06-15 22:52:40,787 [INFO] scanner — ⬛ ALLOUSDT: score too low (45/55 minimum)
+2026-06-15 22:52:41,142 [INFO] scanner — ⬛ ASTERUSDT: score too low (50/55 minimum)
+2026-06-15 22:52:41,157 [INFO] scanner — ⬛ ATOMUSDT: score too low (43/55 minimum)
+2026-06-15 22:52:41,313 [INFO] scanner — ⬛ ADAUSDT: score too low (41/55 minimum)
+2026-06-15 22:52:41,361 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (40/55 minimum)
+2026-06-15 22:52:41,663 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 22:52:41,780 [INFO] scanner — ⬛ AAVEUSDT: score too low (39/55 minimum)
+2026-06-15 22:52:42,760 [INFO] scanner — ⬛ ARBUSDT: score too low (46/55 minimum)
+2026-06-15 22:52:46,897 [INFO] scanner — ⬛ AVAXUSDT: score too low (41/55 minimum)
+2026-06-15 22:52:47,658 [INFO] scanner — ⬛ BABYUSDT: score too low (37/55 minimum)
+2026-06-15 22:52:47,785 [INFO] scanner — ⬛ BCHUSDT: score too low (42/55 minimum)
+2026-06-15 22:52:47,987 [INFO] scanner — ⬛ CLOUSDT: score too low (39/55 minimum)
+2026-06-15 22:52:48,116 [INFO] scanner — ⬛ EIGENUSDT: score too low (46/55 minimum)
+2026-06-15 22:52:48,435 [INFO] scanner — ⬛ DOTUSDT: score too low (38/55 minimum)
+2026-06-15 22:52:49,017 [INFO] scanner — ⬛ CLUSDT: score too low (53/55 minimum)
+2026-06-15 22:52:49,220 [INFO] scanner — ⬛ ENAUSDT: score too low (44/55 minimum)
+2026-06-15 22:52:53,535 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (47/55 minimum)
+2026-06-15 22:52:53,838 [INFO] scanner — ⬛ ETHUSDT: score too low (42/55 minimum)
+2026-06-15 22:52:54,180 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (38/55 minimum)
+2026-06-15 22:52:54,827 [INFO] scanner — ⬛ HBARUSDT: score too low (43/55 minimum)
+2026-06-15 22:52:54,829 [INFO] scanner — Progress: 20/52 analysed | 0 valid | 22s elapsed
+2026-06-15 22:52:54,978 [INFO] scanner — ⬛ GRASSUSDT: score too low (49/55 minimum)
+2026-06-15 22:52:55,491 [INFO] scanner — ⬛ INJUSDT: score too low (42/55 minimum)
+2026-06-15 22:52:55,801 [INFO] scanner — ⬛ HOMEUSDT: score too low (37/55 minimum)
+2026-06-15 22:52:55,984 [INFO] scanner — ⬛ HYPEUSDT: score too low (49/55 minimum)
+2026-06-15 22:52:59,444 [INFO] scanner — ⬛ IPUSDT: score too low (41/55 minimum)
+2026-06-15 22:53:00,100 [INFO] scanner — ⬛ JUPUSDT: score too low (43/55 minimum)
+2026-06-15 22:53:00,251 [INFO] scanner — ⬛ LABUSDT: score too low (47/55 minimum)
+2026-06-15 22:53:00,916 [INFO] scanner — ⬛ LINKUSDT: score too low (39/55 minimum)
+2026-06-15 22:53:01,274 [INFO] scanner — ⬛ LITUSDT: score too low (54/55 minimum)
+2026-06-15 22:53:01,599 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 22:53:01,821 [INFO] scanner — ⬛ MEGAUSDT: score too low (38/55 minimum)
+2026-06-15 22:53:02,117 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 22:53:05,605 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 22:53:06,270 [INFO] scanner — ⬛ NEARUSDT: score too low (48/55 minimum)
+2026-06-15 22:53:06,695 [INFO] scanner — ⬛ PENGUUSDT: score too low (40/55 minimum)
+2026-06-15 22:53:07,113 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 22:53:07,883 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 22:53:07,973 [INFO] scanner — ⬛ SOLUSDT: score too low (42/55 minimum)
+2026-06-15 22:53:08,345 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 22:53:08,779 [INFO] scanner — ⬛ STGUSDT: score too low (39/55 minimum)
+2026-06-15 22:53:08,780 [INFO] scanner — Progress: 40/52 analysed | 0 valid | 36s elapsed
+2026-06-15 22:53:12,567 [INFO] scanner — ⬛ STRKUSDT: score too low (44/55 minimum)
+2026-06-15 22:53:12,683 [INFO] scanner — ⬛ SUIUSDT: score too low (42/55 minimum)
+2026-06-15 22:53:12,840 [INFO] scanner — ⬛ TAOUSDT: score too low (44/55 minimum)
+2026-06-15 22:53:13,403 [INFO] scanner — ⬛ TIAUSDT: score too low (38/55 minimum)
+2026-06-15 22:53:14,681 [INFO] scanner — ⬛ VELVETUSDT: score too low (52/55 minimum)
+2026-06-15 22:53:14,812 [INFO] scanner — ⬛ TRUMPUSDT: score too low (43/55 minimum)
+2026-06-15 22:53:14,843 [INFO] scanner — ⬛ VVVUSDT: score too low (38/55 minimum)
+2026-06-15 22:53:14,919 [INFO] scanner — ⛔ UNIUSDT: ANTI-CHASE: Chasing pump: up 7.4% + 1h RSI=81 — no structural backing
+2026-06-15 22:53:18,127 [INFO] scanner — ⬛ WIFUSDT: score too low (38/55 minimum)
+2026-06-15 22:53:18,773 [INFO] scanner — ⬛ XMRUSDT: score too low (50/55 minimum)
+2026-06-15 22:53:18,830 [INFO] scanner — ⬛ XRPUSDT: score too low (46/55 minimum)
+2026-06-15 22:53:18,835 [INFO] scanner — ⬛ ZECUSDT: score too low (34/55 minimum)
+2026-06-15 22:53:18,837 [INFO] scanner — Full scan complete in 46s — 0 valid signals found
+2026-06-15 22:53:18,837 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 22:53:18,837 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 22:53:19,842 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 22:53:19,842 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 22:53:19,843 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 23:02:01,824 [INFO] main — ============================================================
+2026-06-15 23:02:01,825 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 23:02:01,825 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 23:02:01,825 [INFO] main — ============================================================
+2026-06-15 23:02:09,241 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 23:02:09,242 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 23:02:09,242 [INFO] scanner — ============================================================
+2026-06-15 23:02:09,243 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 23:02:09,243 [INFO] scanner — ============================================================
+2026-06-15 23:02:29,944 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 23:02:33,690 [INFO] data_fetcher — Filtered to 52 coins
+2026-06-15 23:02:33,690 [INFO] scanner — After volume/volatility filter: 52 coins
+2026-06-15 23:02:33,693 [INFO] scanner — Analysing ALL 52 candidates...
+2026-06-15 23:02:44,700 [INFO] scanner — ⬛ ALLOUSDT: score too low (45/55 minimum)
+2026-06-15 23:02:44,707 [INFO] scanner — ⬛ AAVEUSDT: score too low (38/55 minimum)
+2026-06-15 23:02:45,219 [INFO] scanner — ⬛ ATOMUSDT: score too low (40/55 minimum)
+2026-06-15 23:02:45,732 [INFO] scanner — ⬛ ADAUSDT: score too low (44/55 minimum)
+2026-06-15 23:02:46,069 [INFO] scanner — ⬛ ARBUSDT: score too low (46/55 minimum)
+2026-06-15 23:02:46,203 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 23:02:49,139 [INFO] scanner — ⬛ ASTERUSDT: score too low (51/55 minimum)
+2026-06-15 23:02:52,616 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (40/55 minimum)
+2026-06-15 23:02:53,275 [INFO] scanner — ⬛ AVAXUSDT: score too low (42/55 minimum)
+2026-06-15 23:02:56,318 [INFO] scanner — ⬛ ENAUSDT: score too low (48/55 minimum)
+2026-06-15 23:02:56,469 [INFO] scanner — ⬛ BCHUSDT: score too low (41/55 minimum)
+2026-06-15 23:02:56,496 [INFO] scanner — ⬛ EIGENUSDT: score too low (46/55 minimum)
+2026-06-15 23:02:56,826 [INFO] scanner — ⬛ DOTUSDT: score too low (39/55 minimum)
+2026-06-15 23:02:59,371 [INFO] scanner — ⬛ BABYUSDT: score too low (41/55 minimum)
+2026-06-15 23:03:00,919 [INFO] scanner — ⬛ ETHUSDT: score too low (42/55 minimum)
+2026-06-15 23:03:02,634 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (48/55 minimum)
+2026-06-15 23:03:02,886 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (41/55 minimum)
+2026-06-15 23:03:06,022 [INFO] scanner — ⬛ HYPEUSDT: score too low (53/55 minimum)
+2026-06-15 23:03:06,277 [INFO] scanner — ⬛ GRASSUSDT: score too low (49/55 minimum)
+2026-06-15 23:03:06,539 [INFO] scanner — ⬛ HOMEUSDT: score too low (37/55 minimum)
+2026-06-15 23:03:06,540 [INFO] scanner — Progress: 20/52 analysed | 0 valid | 33s elapsed
+2026-06-15 23:03:07,860 [INFO] scanner — ⬛ HBARUSDT: score too low (43/55 minimum)
+2026-06-15 23:03:08,525 [INFO] scanner — ⬛ INJUSDT: score too low (43/55 minimum)
+2026-06-15 23:03:11,529 [INFO] scanner — ⬛ JELLYJELLYUSDT: score too low (46/55 minimum)
+2026-06-15 23:03:12,818 [INFO] scanner — ⬛ JUPUSDT: score too low (43/55 minimum)
+2026-06-15 23:03:15,342 [INFO] scanner — ⬛ LABUSDT: score too low (54/55 minimum)
+2026-06-15 23:03:15,520 [INFO] scanner — ⬛ LINKUSDT: score too low (39/55 minimum)
+2026-06-15 23:03:15,530 [INFO] scanner — ⬛ IPUSDT: score too low (38/55 minimum)
+2026-06-15 23:03:17,479 [INFO] scanner — ⬛ LITUSDT: score too low (54/55 minimum)
+2026-06-15 23:03:17,743 [INFO] scanner — ⬛ MEGAUSDT: score too low (37/55 minimum)
+2026-06-15 23:03:18,214 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 23:03:18,948 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 23:03:20,213 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 23:03:24,933 [INFO] scanner — ⬛ PENGUUSDT: score too low (39/55 minimum)
+2026-06-15 23:03:25,476 [INFO] scanner — ⬛ NEARUSDT: score too low (48/55 minimum)
+2026-06-15 23:03:25,836 [INFO] scanner — ⬛ ONDOUSDT: score too low (44/55 minimum)
+2026-06-15 23:03:27,068 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 23:03:27,245 [INFO] scanner — ⬛ SOLUSDT: score too low (39/55 minimum)
+2026-06-15 23:03:27,654 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 23:03:28,291 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 23:03:28,545 [INFO] scanner — ⬛ STGUSDT: score too low (39/55 minimum)
+2026-06-15 23:03:28,547 [INFO] scanner — Progress: 40/52 analysed | 0 valid | 55s elapsed
+2026-06-15 23:03:32,320 [INFO] scanner — ⬛ SUIUSDT: score too low (43/55 minimum)
+2026-06-15 23:03:32,701 [INFO] scanner — ⬛ STRKUSDT: score too low (42/55 minimum)
+2026-06-15 23:03:33,996 [INFO] scanner — ⬛ TIAUSDT: score too low (39/55 minimum)
+2026-06-15 23:03:34,155 [INFO] scanner — ⬛ TRUMPUSDT: score too low (53/55 minimum)
+2026-06-15 23:03:34,174 [INFO] scanner — ⬛ TAOUSDT: score too low (43/55 minimum)
+2026-06-15 23:03:34,863 [INFO] scanner — ⛔ UNIUSDT: ANTI-CHASE: Chasing pump: up 8.1% + 1h RSI=82 — no structural backing
+2026-06-15 23:03:35,332 [INFO] scanner — ⬛ VELVETUSDT: score too low (52/55 minimum)
+2026-06-15 23:03:36,334 [INFO] scanner — ⬛ VVVUSDT: score too low (39/55 minimum)
+2026-06-15 23:03:39,138 [INFO] scanner — ⬛ WIFUSDT: score too low (40/55 minimum)
+2026-06-15 23:03:39,365 [INFO] scanner — ⬛ XMRUSDT: score too low (48/55 minimum)
+2026-06-15 23:03:40,207 [INFO] scanner — ⬛ XRPUSDT: score too low (43/55 minimum)
+2026-06-15 23:03:40,942 [INFO] scanner — ⬛ ZECUSDT: score too low (33/55 minimum)
+2026-06-15 23:03:40,944 [INFO] scanner — Full scan complete in 67s — 0 valid signals found
+2026-06-15 23:03:40,945 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 23:03:40,945 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 23:03:42,021 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 23:03:42,022 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 23:03:42,022 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 23:15:54,299 [INFO] main — ============================================================
+2026-06-15 23:15:54,300 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 23:15:54,300 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 23:15:54,301 [INFO] main — ============================================================
+2026-06-15 23:15:55,327 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 23:15:55,329 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 23:15:55,330 [INFO] scanner — ============================================================
+2026-06-15 23:15:55,330 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 23:15:55,330 [INFO] scanner — ============================================================
+2026-06-15 23:15:56,488 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 23:15:57,462 [INFO] data_fetcher — Filtered to 54 coins
+2026-06-15 23:15:57,463 [INFO] scanner — After volume/volatility filter: 54 coins
+2026-06-15 23:15:57,466 [INFO] scanner — Analysing ALL 54 candidates...
+2026-06-15 23:16:04,149 [INFO] scanner — ⬛ ADAUSDT: score too low (42/55 minimum)
+2026-06-15 23:16:05,219 [INFO] scanner — ⬛ ALLOUSDT: score too low (47/55 minimum)
+2026-06-15 23:16:05,283 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (38/55 minimum)
+2026-06-15 23:16:05,320 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (39/55 minimum)
+2026-06-15 23:16:05,383 [INFO] scanner — ⬛ ATOMUSDT: score too low (40/55 minimum)
+2026-06-15 23:16:05,365 [INFO] scanner — ⬛ ARBUSDT: score too low (45/55 minimum)
+2026-06-15 23:16:05,447 [INFO] scanner — ⬛ ASTERUSDT: score too low (51/55 minimum)
+2026-06-15 23:16:05,451 [INFO] scanner — ⬛ AAVEUSDT: score too low (39/55 minimum)
+2026-06-15 23:16:11,348 [INFO] scanner — ⬛ AVAXUSDT: score too low (45/55 minimum)
+2026-06-15 23:16:11,743 [INFO] scanner — ⬛ BCHUSDT: score too low (41/55 minimum)
+2026-06-15 23:16:12,146 [INFO] scanner — ⬛ BTCUSDT: score too low (42/55 minimum)
+2026-06-15 23:16:12,268 [INFO] scanner — ⬛ EIGENUSDT: score too low (46/55 minimum)
+2026-06-15 23:16:12,603 [INFO] scanner — ⬛ CLOUSDT: score too low (38/55 minimum)
+2026-06-15 23:16:12,631 [INFO] scanner — ⬛ BABYUSDT: score too low (43/55 minimum)
+2026-06-15 23:16:12,666 [INFO] scanner — ⬛ DOTUSDT: score too low (40/55 minimum)
+2026-06-15 23:16:12,784 [INFO] scanner — ⬛ ENAUSDT: score too low (47/55 minimum)
+2026-06-15 23:16:17,556 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (51/55 minimum)
+2026-06-15 23:16:18,444 [INFO] scanner — ⬛ ETHUSDT: score too low (39/55 minimum)
+2026-06-15 23:16:18,747 [INFO] scanner — ⬛ GRASSUSDT: score too low (49/55 minimum)
+2026-06-15 23:16:18,757 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (42/55 minimum)
+2026-06-15 23:16:18,758 [INFO] scanner — Progress: 20/54 analysed | 0 valid | 21s elapsed
+2026-06-15 23:16:18,964 [INFO] scanner — ⬛ INJUSDT: score too low (42/55 minimum)
+2026-06-15 23:16:19,123 [INFO] scanner — ⬛ HYPEUSDT: score too low (53/55 minimum)
+2026-06-15 23:16:19,127 [INFO] scanner — ⬛ HBARUSDT: score too low (44/55 minimum)
+2026-06-15 23:16:19,653 [INFO] scanner — ⬛ HOMEUSDT: score too low (37/55 minimum)
+2026-06-15 23:16:24,135 [INFO] scanner — ⬛ IPUSDT: score too low (37/55 minimum)
+2026-06-15 23:16:24,993 [INFO] scanner — ⬛ JUPUSDT: score too low (44/55 minimum)
+2026-06-15 23:16:25,512 [INFO] scanner — ⬛ MEGAUSDT: score too low (36/55 minimum)
+2026-06-15 23:16:25,712 [INFO] scanner — ⬛ LITUSDT: score too low (53/55 minimum)
+2026-06-15 23:16:25,747 [INFO] scanner — ⬛ LINKUSDT: score too low (39/55 minimum)
+2026-06-15 23:16:25,804 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 23:16:26,620 [INFO] scanner — ⬛ LTCUSDT: score too low (41/55 minimum)
+2026-06-15 23:16:28,448 [INFO] scanner — ✅ LABUSDT: score=57 dir=LONG (32/54)
+2026-06-15 23:16:30,689 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 23:16:31,353 [INFO] scanner — ⬛ ONDOUSDT: score too low (45/55 minimum)
+2026-06-15 23:16:32,110 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (45/55 minimum)
+2026-06-15 23:16:32,284 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 23:16:32,359 [INFO] scanner — ⬛ PENGUUSDT: score too low (39/55 minimum)
+2026-06-15 23:16:32,500 [INFO] scanner — ⬛ NEARUSDT: score too low (46/55 minimum)
+2026-06-15 23:16:34,153 [INFO] scanner — ⬛ SOLUSDT: score too low (39/55 minimum)
+2026-06-15 23:16:34,913 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 23:16:34,913 [INFO] scanner — Progress: 40/54 analysed | 1 valid | 37s elapsed
+2026-06-15 23:16:36,983 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (1 candles, need 50)
+2026-06-15 23:16:38,383 [INFO] scanner — ⬛ TAOUSDT: score too low (37/55 minimum)
+2026-06-15 23:16:38,491 [INFO] scanner — ⬛ STRKUSDT: score too low (45/55 minimum)
+2026-06-15 23:16:38,769 [INFO] scanner — ⬛ SUIUSDT: score too low (43/55 minimum)
+2026-06-15 23:16:38,968 [INFO] scanner — ⬛ TIAUSDT: score too low (40/55 minimum)
+2026-06-15 23:16:39,225 [INFO] scanner — ⬛ TRUMPUSDT: score too low (52/55 minimum)
+2026-06-15 23:16:40,489 [INFO] scanner — ⛔ UNIUSDT: ANTI-CHASE: Chasing pump: up 9.0% + 1h RSI=82 — no structural backing
+2026-06-15 23:16:41,538 [INFO] scanner — ⬛ VELVETUSDT: score too low (52/55 minimum)
+2026-06-15 23:16:42,955 [INFO] scanner — ⬛ VVVUSDT: score too low (39/55 minimum)
+2026-06-15 23:16:44,716 [INFO] scanner — ⬛ WIFUSDT: score too low (40/55 minimum)
+2026-06-15 23:16:44,734 [INFO] scanner — ⬛ XMRUSDT: score too low (47/55 minimum)
+2026-06-15 23:16:45,409 [INFO] scanner — ⬛ ZECUSDT: score too low (35/55 minimum)
+2026-06-15 23:16:45,439 [INFO] scanner — ⬛ XRPUSDT: score too low (42/55 minimum)
+2026-06-15 23:16:45,724 [INFO] scanner — ⬛ XPLUSDT: score too low (40/55 minimum)
+2026-06-15 23:16:45,726 [INFO] scanner — Full scan complete in 48s — 1 valid signals found
+2026-06-15 23:16:45,726 [INFO] scanner — TOP 1 SIGNALS:
+2026-06-15 23:16:45,727 [INFO] scanner —   #1 LABUSDT: 57/100 — LONG — 24h: -4.7%
+2026-06-15 23:16:48,915 [INFO] main — ✅ MORNING signals sent for 1 coins
+2026-06-15 23:16:48,917 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 23:16:48,917 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 23:33:57,803 [INFO] main — ============================================================
+2026-06-15 23:33:57,804 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 23:33:57,805 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 23:33:57,805 [INFO] main — ============================================================
+2026-06-15 23:33:58,835 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 23:33:58,836 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 23:33:58,836 [INFO] scanner — ============================================================
+2026-06-15 23:33:58,837 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 23:33:58,837 [INFO] scanner — ============================================================
+2026-06-15 23:34:00,201 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 23:34:01,255 [INFO] data_fetcher — Filtered to 47 coins
+2026-06-15 23:34:01,255 [INFO] scanner — After volume/volatility filter: 47 coins
+2026-06-15 23:34:01,258 [INFO] scanner — Analysing ALL 47 candidates...
+2026-06-15 23:34:08,881 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (39/55 minimum)
+2026-06-15 23:34:09,224 [INFO] scanner — ⬛ ATOMUSDT: score too low (40/55 minimum)
+2026-06-15 23:34:09,349 [INFO] scanner — ⬛ ALLOUSDT: score too low (45/55 minimum)
+2026-06-15 23:34:09,361 [INFO] scanner — ⬛ AVAXUSDT: score too low (45/55 minimum)
+2026-06-15 23:34:09,394 [INFO] scanner — ⬛ AAVEUSDT: score too low (40/55 minimum)
+2026-06-15 23:34:09,459 [INFO] scanner — ⬛ ASTERUSDT: score too low (50/55 minimum)
+2026-06-15 23:34:09,518 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (39/55 minimum)
+2026-06-15 23:34:09,526 [INFO] scanner — ⬛ BABYUSDT: score too low (41/55 minimum)
+2026-06-15 23:34:15,571 [INFO] scanner — ⬛ BCHUSDT: score too low (38/55 minimum)
+2026-06-15 23:34:15,686 [INFO] scanner — ⬛ EIGENUSDT: score too low (48/55 minimum)
+2026-06-15 23:34:15,850 [INFO] scanner — ⬛ BTCUSDT: score too low (42/55 minimum)
+2026-06-15 23:34:16,781 [INFO] scanner — ⬛ ETHUSDT: score too low (39/55 minimum)
+2026-06-15 23:34:16,837 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (44/55 minimum)
+2026-06-15 23:34:16,867 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (47/55 minimum)
+2026-06-15 23:34:16,976 [INFO] scanner — ⬛ DOTUSDT: score too low (46/55 minimum)
+2026-06-15 23:34:16,986 [INFO] scanner — ⬛ CLOUSDT: score too low (41/55 minimum)
+2026-06-15 23:34:21,778 [INFO] scanner — ⬛ GRASSUSDT: score too low (48/55 minimum)
+2026-06-15 23:34:22,899 [INFO] scanner — ⬛ HBARUSDT: score too low (45/55 minimum)
+2026-06-15 23:34:22,905 [INFO] scanner — ⬛ HOMEUSDT: score too low (38/55 minimum)
+2026-06-15 23:34:23,214 [INFO] scanner — ⬛ HYPEUSDT: score too low (44/55 minimum)
+2026-06-15 23:34:23,214 [INFO] scanner — Progress: 20/47 analysed | 0 valid | 22s elapsed
+2026-06-15 23:34:23,946 [INFO] scanner — ⬛ ICPUSDT: score too low (42/55 minimum)
+2026-06-15 23:34:23,981 [INFO] scanner — ⬛ IPUSDT: score too low (41/55 minimum)
+2026-06-15 23:34:24,071 [INFO] scanner — ⬛ INJUSDT: score too low (41/55 minimum)
+2026-06-15 23:34:24,195 [INFO] scanner — ⬛ JUPUSDT: score too low (45/55 minimum)
+2026-06-15 23:34:30,159 [INFO] scanner — ⬛ LTCUSDT: score too low (42/55 minimum)
+2026-06-15 23:34:30,177 [INFO] scanner — ⬛ MEGAUSDT: score too low (40/55 minimum)
+2026-06-15 23:34:30,245 [INFO] scanner — ⬛ LITUSDT: score too low (53/55 minimum)
+2026-06-15 23:34:30,249 [INFO] scanner — ⬛ LINKUSDT: score too low (40/55 minimum)
+2026-06-15 23:34:30,389 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 23:34:31,118 [INFO] scanner — ⬛ NEARUSDT: score too low (49/55 minimum)
+2026-06-15 23:34:31,402 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 23:34:31,582 [INFO] scanner — ✅ LABUSDT: score=56 dir=LONG (32/47)
+2026-06-15 23:34:37,212 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 23:34:37,297 [INFO] scanner — ⬛ STRKUSDT: score too low (44/55 minimum)
+2026-06-15 23:34:37,354 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 23:34:37,627 [INFO] scanner — ⬛ PENGUUSDT: score too low (39/55 minimum)
+2026-06-15 23:34:37,716 [INFO] scanner — ⬛ TAOUSDT: score too low (43/55 minimum)
+2026-06-15 23:34:37,730 [INFO] scanner — ⬛ SOLUSDT: score too low (39/55 minimum)
+2026-06-15 23:34:38,502 [INFO] scanner — ⬛ TRUMPUSDT: score too low (54/55 minimum)
+2026-06-15 23:34:38,770 [INFO] scanner — ⬛ TIAUSDT: score too low (40/55 minimum)
+2026-06-15 23:34:38,770 [INFO] scanner — Progress: 40/47 analysed | 1 valid | 38s elapsed
+2026-06-15 23:34:42,994 [INFO] scanner — ⬛ UNIUSDT: score too low (44/55 minimum)
+2026-06-15 23:34:43,406 [INFO] scanner — ⬛ VELVETUSDT: score too low (52/55 minimum)
+2026-06-15 23:34:43,757 [INFO] scanner — ⬛ WIFUSDT: score too low (44/55 minimum)
+2026-06-15 23:34:43,967 [INFO] scanner — ⬛ XMRUSDT: score too low (48/55 minimum)
+2026-06-15 23:34:44,273 [INFO] scanner — ⬛ XRPUSDT: score too low (40/55 minimum)
+2026-06-15 23:34:44,359 [INFO] scanner — ⬛ VVVUSDT: score too low (39/55 minimum)
+2026-06-15 23:34:44,366 [INFO] scanner — ⬛ ZECUSDT: score too low (36/55 minimum)
+2026-06-15 23:34:44,368 [INFO] scanner — Full scan complete in 43s — 1 valid signals found
+2026-06-15 23:34:44,369 [INFO] scanner — TOP 1 SIGNALS:
+2026-06-15 23:34:44,369 [INFO] scanner —   #1 LABUSDT: 56/100 — LONG — 24h: -6.4%
+2026-06-15 23:34:47,844 [INFO] main — ✅ MORNING signals sent for 1 coins
+2026-06-15 23:34:47,846 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 23:34:47,847 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-15 23:44:58,252 [INFO] main — ============================================================
+2026-06-15 23:44:58,252 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-15 23:44:58,253 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-15 23:44:58,254 [INFO] main — ============================================================
+2026-06-15 23:44:59,241 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-15 23:44:59,241 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-15 23:44:59,242 [INFO] scanner — ============================================================
+2026-06-15 23:44:59,243 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-15 23:44:59,243 [INFO] scanner — ============================================================
+2026-06-15 23:45:00,529 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-15 23:45:01,565 [INFO] data_fetcher — Filtered to 40 coins
+2026-06-15 23:45:01,567 [INFO] scanner — After volume/volatility filter: 40 coins
+2026-06-15 23:45:01,570 [INFO] scanner — Analysing ALL 40 candidates...
+2026-06-15 23:45:09,837 [INFO] scanner — ⬛ BCHUSDT: score too low (36/55 minimum)
+2026-06-15 23:45:09,878 [INFO] scanner — ⬛ BABYUSDT: score too low (37/55 minimum)
+2026-06-15 23:45:09,941 [INFO] scanner — ⬛ ASTERUSDT: score too low (49/55 minimum)
+2026-06-15 23:45:10,002 [INFO] scanner — ⬛ CLOUSDT: score too low (42/55 minimum)
+2026-06-15 23:45:10,013 [INFO] scanner — ⬛ AAVEUSDT: score too low (40/55 minimum)
+2026-06-15 23:45:10,053 [INFO] scanner — ⬛ EIGENUSDT: score too low (48/55 minimum)
+2026-06-15 23:45:10,071 [INFO] scanner — ⬛ ATOMUSDT: score too low (40/55 minimum)
+2026-06-15 23:45:10,076 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (39/55 minimum)
+2026-06-15 23:45:16,229 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (50/55 minimum)
+2026-06-15 23:45:16,836 [INFO] scanner — ⬛ HYPEUSDT: score too low (45/55 minimum)
+2026-06-15 23:45:17,248 [INFO] scanner — ⬛ ICPUSDT: score too low (36/55 minimum)
+2026-06-15 23:45:17,451 [INFO] scanner — ⬛ ETHUSDT: score too low (40/55 minimum)
+2026-06-15 23:45:17,502 [INFO] scanner — ⬛ HOMEUSDT: score too low (38/55 minimum)
+2026-06-15 23:45:17,520 [INFO] scanner — ⬛ INJUSDT: score too low (28/55 minimum)
+2026-06-15 23:45:17,526 [INFO] scanner — ⬛ HBARUSDT: score too low (45/55 minimum)
+2026-06-15 23:45:17,595 [INFO] scanner — ⬛ GRASSUSDT: score too low (40/55 minimum)
+2026-06-15 23:45:22,333 [INFO] scanner — ⬛ IPUSDT: score too low (44/55 minimum)
+2026-06-15 23:45:23,467 [INFO] scanner — ⬛ JUPUSDT: score too low (45/55 minimum)
+2026-06-15 23:45:23,508 [INFO] scanner — ⬛ LABUSDT: score too low (51/55 minimum)
+2026-06-15 23:45:24,075 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-15 23:45:24,076 [INFO] scanner — Progress: 20/40 analysed | 0 valid | 23s elapsed
+2026-06-15 23:45:24,307 [INFO] scanner — ⬛ LINKUSDT: score too low (40/55 minimum)
+2026-06-15 23:45:24,357 [INFO] scanner — ⬛ MEGAUSDT: score too low (39/55 minimum)
+2026-06-15 23:45:24,436 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-15 23:45:24,480 [INFO] scanner — ⬛ NEARUSDT: score too low (49/55 minimum)
+2026-06-15 23:45:28,807 [INFO] scanner — ⬛ PENGUUSDT: score too low (39/55 minimum)
+2026-06-15 23:45:29,731 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-15 23:45:29,941 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-15 23:45:30,183 [INFO] scanner — ⬛ TAOUSDT: score too low (42/55 minimum)
+2026-06-15 23:45:30,186 [INFO] scanner — ⬛ STRKUSDT: score too low (46/55 minimum)
+2026-06-15 23:45:30,244 [INFO] scanner — ⬛ SOLUSDT: score too low (40/55 minimum)
+2026-06-15 23:45:30,449 [INFO] scanner — ⬛ TIAUSDT: score too low (41/55 minimum)
+2026-06-15 23:45:30,669 [INFO] scanner — ⬛ TRUMPUSDT: score too low (52/55 minimum)
+2026-06-15 23:45:34,736 [INFO] scanner — ⬛ UNIUSDT: score too low (45/55 minimum)
+2026-06-15 23:45:35,660 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (36/55 minimum)
+2026-06-15 23:45:35,687 [INFO] scanner — ⬛ VVVUSDT: score too low (39/55 minimum)
+2026-06-15 23:45:35,947 [INFO] scanner — ⬛ XMRUSDT: score too low (46/55 minimum)
+2026-06-15 23:45:36,124 [INFO] scanner — ⬛ WIFUSDT: score too low (44/55 minimum)
+2026-06-15 23:45:36,197 [INFO] scanner — ⬛ XRPUSDT: score too low (39/55 minimum)
+2026-06-15 23:45:36,238 [INFO] scanner — ⬛ XLMUSDT: score too low (47/55 minimum)
+2026-06-15 23:45:36,373 [INFO] scanner — ⬛ ZECUSDT: score too low (37/55 minimum)
+2026-06-15 23:45:36,374 [INFO] scanner — Progress: 40/40 analysed | 0 valid | 35s elapsed
+2026-06-15 23:45:36,376 [INFO] scanner — Full scan complete in 35s — 0 valid signals found
+2026-06-15 23:45:36,377 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-15 23:45:36,377 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-15 23:45:37,367 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-15 23:45:37,367 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-15 23:45:37,368 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 00:13:55,331 [INFO] main — ============================================================
+2026-06-16 00:13:55,331 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 00:13:55,332 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 00:13:55,332 [INFO] main — ============================================================
+2026-06-16 00:13:56,480 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 00:13:56,481 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 00:13:56,481 [INFO] scanner — ============================================================
+2026-06-16 00:13:56,482 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 00:13:56,482 [INFO] scanner — ============================================================
+2026-06-16 00:13:57,561 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-16 00:13:59,579 [INFO] data_fetcher — Filtered to 45 coins
+2026-06-16 00:13:59,580 [INFO] scanner — After volume/volatility filter: 45 coins
+2026-06-16 00:13:59,582 [INFO] scanner — Analysing ALL 45 candidates...
+2026-06-16 00:14:05,548 [INFO] scanner — ⬛ ASTERUSDT: score too low (47/55 minimum)
+2026-06-16 00:14:06,246 [INFO] scanner — ⬛ AEROUSDT: score too low (45/55 minimum)
+2026-06-16 00:14:06,676 [INFO] scanner — ⬛ ALLOUSDT: score too low (47/55 minimum)
+2026-06-16 00:14:06,680 [INFO] scanner — ⬛ AVAXUSDT: score too low (45/55 minimum)
+2026-06-16 00:14:06,752 [INFO] scanner — ⬛ BABYUSDT: score too low (44/55 minimum)
+2026-06-16 00:14:06,779 [INFO] scanner — ⬛ ATOMUSDT: score too low (41/55 minimum)
+2026-06-16 00:14:06,784 [INFO] scanner — ⬛ AAVEUSDT: score too low (40/55 minimum)
+2026-06-16 00:14:06,790 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (39/55 minimum)
+2026-06-16 00:14:11,433 [INFO] scanner — ⬛ BCHUSDT: score too low (37/55 minimum)
+2026-06-16 00:14:12,515 [INFO] scanner — ⬛ CLOUSDT: score too low (36/55 minimum)
+2026-06-16 00:14:13,249 [INFO] scanner — ⬛ DOTUSDT: score too low (46/55 minimum)
+2026-06-16 00:14:13,575 [INFO] scanner — ⬛ GRASSUSDT: score too low (50/55 minimum)
+2026-06-16 00:14:13,586 [INFO] scanner — ⬛ HBARUSDT: score too low (44/55 minimum)
+2026-06-16 00:14:13,589 [INFO] scanner — ⬛ EIGENUSDT: score too low (45/55 minimum)
+2026-06-16 00:14:13,675 [INFO] scanner — ⬛ ETHUSDT: score too low (40/55 minimum)
+2026-06-16 00:14:13,712 [INFO] scanner — ⬛ HOMEUSDT: score too low (36/55 minimum)
+2026-06-16 00:14:17,957 [INFO] scanner — ⬛ HYPEUSDT: score too low (47/55 minimum)
+2026-06-16 00:14:18,680 [INFO] scanner — ⬛ ICPUSDT: score too low (47/55 minimum)
+2026-06-16 00:14:19,124 [INFO] scanner — ⬛ INJUSDT: score too low (35/55 minimum)
+2026-06-16 00:14:19,347 [INFO] scanner — ⬛ IPUSDT: score too low (44/55 minimum)
+2026-06-16 00:14:19,348 [INFO] scanner — Progress: 20/45 analysed | 0 valid | 20s elapsed
+2026-06-16 00:14:19,707 [INFO] scanner — ⬛ LINKUSDT: score too low (41/55 minimum)
+2026-06-16 00:14:19,765 [INFO] scanner — ⬛ LABUSDT: score too low (53/55 minimum)
+2026-06-16 00:14:19,934 [INFO] scanner — ⬛ MEGAUSDT: score too low (37/55 minimum)
+2026-06-16 00:14:20,059 [INFO] scanner — ⬛ JUPUSDT: score too low (43/55 minimum)
+2026-06-16 00:14:24,298 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (34 candles, need 50)
+2026-06-16 00:14:24,307 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (40 candles, need 50)
+2026-06-16 00:14:25,444 [INFO] scanner — ⬛ PENGUUSDT: score too low (37/55 minimum)
+2026-06-16 00:14:25,683 [INFO] scanner — ⬛ NEARUSDT: score too low (46/55 minimum)
+2026-06-16 00:14:25,879 [INFO] scanner — ⬛ SOLUSDT: score too low (37/55 minimum)
+2026-06-16 00:14:25,882 [INFO] scanner — ⬛ SNDKUSDT: insufficient daily data (49 candles, need 50)
+2026-06-16 00:14:25,883 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (28 candles, need 50)
+2026-06-16 00:14:26,114 [INFO] scanner — ⬛ SIRENUSDT: score too low (40/55 minimum)
+2026-06-16 00:14:30,156 [INFO] scanner — ⬛ STGUSDT: score too low (41/55 minimum)
+2026-06-16 00:14:30,276 [INFO] scanner — ⬛ STRKUSDT: score too low (36/55 minimum)
+2026-06-16 00:14:31,686 [INFO] scanner — ⬛ TRUMPUSDT: score too low (46/55 minimum)
+2026-06-16 00:14:31,707 [INFO] scanner — ⛔ UNIUSDT: ANTI-CHASE: Chasing pump: up 8.4% + 1h RSI=81 — no structural backing
+2026-06-16 00:14:32,043 [INFO] scanner — ⬛ TAOUSDT: score too low (37/55 minimum)
+2026-06-16 00:14:32,193 [INFO] scanner — ⬛ TIAUSDT: score too low (40/55 minimum)
+2026-06-16 00:14:32,296 [INFO] scanner — ⬛ VVVUSDT: score too low (38/55 minimum)
+2026-06-16 00:14:32,922 [INFO] scanner — ⬛ WIFUSDT: score too low (42/55 minimum)
+2026-06-16 00:14:32,922 [INFO] scanner — Progress: 40/45 analysed | 0 valid | 33s elapsed
+2026-06-16 00:14:35,905 [INFO] scanner — ⬛ WLDUSDT: score too low (47/55 minimum)
+2026-06-16 00:14:36,836 [INFO] scanner — ⬛ XLMUSDT: score too low (44/55 minimum)
+2026-06-16 00:14:37,353 [INFO] scanner — ⬛ XMRUSDT: score too low (51/55 minimum)
+2026-06-16 00:14:37,562 [INFO] scanner — ⬛ XRPUSDT: score too low (37/55 minimum)
+2026-06-16 00:14:39,256 [INFO] scanner — ⬛ ZECUSDT: score too low (35/55 minimum)
+2026-06-16 00:14:39,259 [INFO] scanner — Full scan complete in 40s — 0 valid signals found
+2026-06-16 00:14:39,259 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-16 00:14:39,259 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-16 00:14:40,361 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-16 00:14:40,361 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 00:14:40,362 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 09:12:27,988 [INFO] main — ============================================================
+2026-06-16 09:12:27,990 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 09:12:27,990 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 09:12:27,990 [INFO] main — ============================================================
+2026-06-16 09:12:28,863 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 09:12:28,863 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 09:12:28,864 [INFO] scanner — ============================================================
+2026-06-16 09:12:28,864 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 09:12:28,864 [INFO] scanner — ============================================================
+2026-06-16 09:12:30,590 [INFO] scanner — Total pairs on Bybit: 581
+2026-06-16 09:12:31,882 [INFO] data_fetcher — Filtered to 51 coins
+2026-06-16 09:12:31,883 [INFO] scanner — After volume/volatility filter: 51 coins
+2026-06-16 09:12:31,887 [INFO] scanner — Analysing ALL 51 candidates...
+2026-06-16 09:12:38,018 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (44/55 minimum)
+2026-06-16 09:12:38,660 [INFO] scanner — ⬛ ALLOUSDT: score too low (41/55 minimum)
+2026-06-16 09:12:38,778 [INFO] scanner — ⬛ AVAXUSDT: score too low (45/55 minimum)
+2026-06-16 09:12:38,797 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (37/55 minimum)
+2026-06-16 09:12:38,813 [INFO] scanner — ⬛ BCHUSDT: score too low (43/55 minimum)
+2026-06-16 09:12:38,819 [INFO] scanner — ⬛ ASTERUSDT: score too low (50/55 minimum)
+2026-06-16 09:12:38,834 [INFO] scanner — ⬛ BABYUSDT: score too low (40/55 minimum)
+2026-06-16 09:12:39,163 [INFO] scanner — ⬛ AAVEUSDT: score too low (49/55 minimum)
+2026-06-16 09:12:43,711 [INFO] scanner — ⬛ DOTUSDT: score too low (40/55 minimum)
+2026-06-16 09:12:44,626 [INFO] scanner — ⬛ ENAUSDT: score too low (50/55 minimum)
+2026-06-16 09:12:44,768 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (49/55 minimum)
+2026-06-16 09:12:44,790 [INFO] scanner — ⬛ ETHUSDT: score too low (45/55 minimum)
+2026-06-16 09:12:44,817 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (45/55 minimum)
+2026-06-16 09:12:44,823 [INFO] scanner — ⬛ EVAAUSDT: score too low (40/55 minimum)
+2026-06-16 09:12:45,316 [INFO] scanner — ⬛ EIGENUSDT: score too low (43/55 minimum)
+2026-06-16 09:12:49,623 [INFO] scanner — ✅ CLUSDT: score=65 dir=SHORT (16/51)
+2026-06-16 09:12:49,747 [INFO] scanner — ⬛ INJUSDT: score too low (41/55 minimum)
+2026-06-16 09:12:50,234 [INFO] scanner — ⬛ ICPUSDT: score too low (36/55 minimum)
+2026-06-16 09:12:50,242 [INFO] scanner — ⬛ HBARUSDT: score too low (47/55 minimum)
+2026-06-16 09:12:51,005 [INFO] scanner — ⬛ HOMEUSDT: score too low (35/55 minimum)
+2026-06-16 09:12:51,006 [INFO] scanner — Progress: 20/51 analysed | 1 valid | 19s elapsed
+2026-06-16 09:12:51,124 [INFO] scanner — ⬛ JUPUSDT: score too low (51/55 minimum)
+2026-06-16 09:12:52,039 [INFO] scanner — ✅ GRASSUSDT: score=71 dir=LONG (22/51)
+2026-06-16 09:12:52,453 [INFO] scanner — ✅ HYPEUSDT: score=68 dir=LONG (23/51)
+2026-06-16 09:12:55,738 [INFO] scanner — ⬛ MEGAUSDT: score too low (38/55 minimum)
+2026-06-16 09:12:55,868 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (35 candles, need 50)
+2026-06-16 09:12:56,151 [INFO] scanner — ⬛ LTCUSDT: score too low (48/55 minimum)
+2026-06-16 09:12:56,455 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (41 candles, need 50)
+2026-06-16 09:12:56,467 [INFO] scanner — ⬛ LITUSDT: score too low (51/55 minimum)
+2026-06-16 09:12:57,007 [INFO] scanner — ⬛ NEARUSDT: score too low (52/55 minimum)
+2026-06-16 09:12:57,050 [INFO] scanner — ⬛ OPGUSDT: score too low (42/55 minimum)
+2026-06-16 09:12:58,279 [INFO] scanner — ⬛ OPUSDT: score too low (37/55 minimum)
+2026-06-16 09:13:00,839 [INFO] scanner — ⬛ PENGUUSDT: score too low (43/55 minimum)
+2026-06-16 09:13:00,913 [INFO] scanner — ⬛ RENDERUSDT: score too low (36/55 minimum)
+2026-06-16 09:13:01,168 [INFO] scanner — ⬛ SIRENUSDT: score too low (40/55 minimum)
+2026-06-16 09:13:01,503 [INFO] scanner — ⬛ SOLUSDT: score too low (49/55 minimum)
+2026-06-16 09:13:01,709 [INFO] scanner — ⬛ SNDKUSDT: score too low (53/55 minimum)
+2026-06-16 09:13:01,971 [INFO] scanner — ⬛ STGUSDT: score too low (42/55 minimum)
+2026-06-16 09:13:01,981 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (29 candles, need 50)
+2026-06-16 09:13:03,150 [INFO] scanner — ⬛ TAOUSDT: score too low (27/55 minimum)
+2026-06-16 09:13:06,402 [INFO] scanner — ⬛ VVVUSDT: score too low (35/55 minimum)
+2026-06-16 09:13:06,402 [INFO] scanner — Progress: 40/51 analysed | 3 valid | 35s elapsed
+2026-06-16 09:13:06,541 [INFO] scanner — ⬛ WIFUSDT: score too low (49/55 minimum)
+2026-06-16 09:13:06,551 [INFO] scanner — ⬛ TIAUSDT: score too low (47/55 minimum)
+2026-06-16 09:13:06,836 [INFO] scanner — ⬛ TRUMPUSDT: score too low (41/55 minimum)
+2026-06-16 09:13:07,065 [INFO] scanner — ⬛ UAIUSDT: score too low (50/55 minimum)
+2026-06-16 09:13:07,076 [INFO] scanner — ⬛ XLMUSDT: score too low (45/55 minimum)
+2026-06-16 09:13:07,100 [INFO] scanner — ⬛ WLDUSDT: score too low (52/55 minimum)
+2026-06-16 09:13:08,321 [INFO] scanner — ⬛ XMRUSDT: score too low (42/55 minimum)
+2026-06-16 09:13:11,586 [INFO] scanner — ⬛ XRPUSDT: score too low (48/55 minimum)
+2026-06-16 09:13:11,588 [INFO] scanner — ⬛ XPLUSDT: score too low (43/55 minimum)
+2026-06-16 09:13:11,652 [INFO] scanner — ⬛ ZROUSDT: score too low (50/55 minimum)
+2026-06-16 09:13:11,683 [INFO] scanner — ⬛ ZECUSDT: score too low (38/55 minimum)
+2026-06-16 09:13:11,684 [INFO] scanner — Full scan complete in 40s — 3 valid signals found
+2026-06-16 09:13:11,684 [INFO] scanner — TOP 3 SIGNALS:
+2026-06-16 09:13:11,684 [INFO] scanner —   #1 GRASSUSDT: 71/100 — LONG — 24h: +1.6%
+2026-06-16 09:13:11,684 [INFO] scanner —   #2 HYPEUSDT: 68/100 — LONG — 24h: +11.0%
+2026-06-16 09:13:11,684 [INFO] scanner —   #3 CLUSDT: 65/100 — SHORT — 24h: -2.0%
+2026-06-16 09:13:18,014 [INFO] main — ✅ MORNING signals sent for 3 coins
+2026-06-16 09:13:18,015 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 09:13:18,015 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 11:26:37,298 [INFO] main — ============================================================
+2026-06-16 11:26:37,298 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 11:26:37,299 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 11:26:37,299 [INFO] main — ============================================================
+2026-06-16 11:26:37,308 [ERROR] telegram_sender — Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8786856212:AAFDpn0L16j9cDuH4nSNllY_JtXj1HeHcWM/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-06-16 11:26:37,308 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 11:26:37,309 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 11:26:37,309 [INFO] scanner — ============================================================
+2026-06-16 11:26:37,309 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 11:26:37,309 [INFO] scanner — ============================================================
+2026-06-16 11:26:37,311 [ERROR] data_fetcher — Instruments error: HTTPSConnectionPool(host='api.bybit.com', port=443): Max retries exceeded with url: /v5/market/instruments-info?category=linear&status=Trading&limit=1000 (Caused by NameResolutionError("HTTPSConnection(host='api.bybit.com', port=443): Failed to resolve 'api.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2026-06-16 11:26:37,312 [ERROR] scanner — Could not fetch symbols from Bybit
+2026-06-16 11:26:37,313 [ERROR] telegram_sender — Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8786856212:AAFDpn0L16j9cDuH4nSNllY_JtXj1HeHcWM/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-06-16 11:26:37,313 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-16 11:26:37,314 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 11:26:37,314 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 11:37:33,046 [INFO] main — ============================================================
+2026-06-16 11:37:33,047 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 11:37:33,048 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 11:37:33,048 [INFO] main — ============================================================
+2026-06-16 11:37:34,149 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 11:37:34,150 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 11:37:34,150 [INFO] scanner — ============================================================
+2026-06-16 11:37:34,151 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 11:37:34,152 [INFO] scanner — ============================================================
+2026-06-16 11:37:36,378 [INFO] scanner — Total pairs on Bybit: 584
+2026-06-16 11:37:38,191 [INFO] data_fetcher — Filtered to 47 coins
+2026-06-16 11:37:38,192 [INFO] scanner — After volume/volatility filter: 47 coins
+2026-06-16 11:37:38,195 [INFO] scanner — Analysing ALL 47 candidates...
+2026-06-16 11:37:45,011 [INFO] scanner — ⬛ ATOMUSDT: score too low (45/55 minimum)
+2026-06-16 11:37:45,072 [INFO] scanner — ⬛ ALLOUSDT: score too low (38/55 minimum)
+2026-06-16 11:37:45,476 [INFO] scanner — ⬛ AAVEUSDT: score too low (43/55 minimum)
+2026-06-16 11:37:45,766 [INFO] scanner — ⬛ BCHUSDT: score too low (43/55 minimum)
+2026-06-16 11:37:45,844 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (44/55 minimum)
+2026-06-16 11:37:45,935 [INFO] scanner — ⬛ AVAXUSDT: score too low (43/55 minimum)
+2026-06-16 11:37:46,014 [INFO] scanner — ⬛ ASTERUSDT: score too low (52/55 minimum)
+2026-06-16 11:37:46,061 [INFO] scanner — ⬛ 1000BONKUSDT: score too low (44/55 minimum)
+2026-06-16 11:37:51,609 [INFO] scanner — ⬛ CHIPUSDT: score too low (32/55 minimum)
+2026-06-16 11:37:51,772 [INFO] scanner — ⬛ EIGENUSDT: score too low (41/55 minimum)
+2026-06-16 11:37:51,875 [INFO] scanner — ⬛ DOTUSDT: score too low (48/55 minimum)
+2026-06-16 11:37:51,882 [INFO] scanner — ⬛ ENAUSDT: score too low (50/55 minimum)
+2026-06-16 11:37:52,151 [INFO] scanner — ⬛ ETHUSDT: score too low (45/55 minimum)
+2026-06-16 11:37:52,243 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (50/55 minimum)
+2026-06-16 11:37:52,284 [INFO] scanner — ⬛ ESPORTSUSDT: score too low (52/55 minimum)
+2026-06-16 11:37:57,169 [INFO] scanner — ✅ CLUSDT: score=65 dir=SHORT (16/47)
+2026-06-16 11:37:57,685 [INFO] scanner — ⬛ HBARUSDT: score too low (52/55 minimum)
+2026-06-16 11:37:57,957 [INFO] scanner — ⬛ HOMEUSDT: score too low (34/55 minimum)
+2026-06-16 11:37:57,969 [INFO] scanner — ⛔ HYPEUSDT: ANTI-CHASE: Chasing pump: up 11.9% + 1h RSI=84 — no structural backing
+2026-06-16 11:37:58,194 [INFO] scanner — ⬛ INJUSDT: score too low (45/55 minimum)
+2026-06-16 11:37:58,204 [INFO] scanner — Progress: 20/47 analysed | 1 valid | 20s elapsed
+2026-06-16 11:37:58,215 [INFO] scanner — ⬛ JUPUSDT: score too low (52/55 minimum)
+2026-06-16 11:37:58,297 [INFO] scanner — ⛔ LABUSDT: ANTI-CHASE: Chasing pump: up 9.8% + 1h RSI=81 — no structural backing
+2026-06-16 11:37:58,320 [INFO] scanner — ⬛ ICPUSDT: score too low (38/55 minimum)
+2026-06-16 11:38:03,892 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (35 candles, need 50)
+2026-06-16 11:38:04,080 [INFO] scanner — ⬛ LITUSDT: score too low (52/55 minimum)
+2026-06-16 11:38:04,093 [INFO] scanner — ⬛ LINKUSDT: score too low (48/55 minimum)
+2026-06-16 11:38:04,151 [INFO] scanner — ⬛ MEGAUSDT: score too low (38/55 minimum)
+2026-06-16 11:38:05,236 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (41 candles, need 50)
+2026-06-16 11:38:05,358 [INFO] scanner — ⬛ OPUSDT: score too low (32/55 minimum)
+2026-06-16 11:38:05,402 [INFO] scanner — ⬛ ONDOUSDT: score too low (50/55 minimum)
+2026-06-16 11:38:07,612 [INFO] scanner — ✅ NEARUSDT: score=73 dir=LONG (31/47)
+2026-06-16 11:38:10,055 [INFO] scanner — ⬛ PENGUUSDT: score too low (47/55 minimum)
+2026-06-16 11:38:10,211 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (29 candles, need 50)
+2026-06-16 11:38:11,165 [INFO] scanner — ⬛ SOLUSDT: score too low (51/55 minimum)
+2026-06-16 11:38:12,071 [INFO] scanner — ⬛ STGUSDT: score too low (43/55 minimum)
+2026-06-16 11:38:12,378 [INFO] scanner — ⬛ TIAUSDT: score too low (46/55 minimum)
+2026-06-16 11:38:12,456 [INFO] scanner — ⬛ SPXUSDT: score too low (40/55 minimum)
+2026-06-16 11:38:13,426 [INFO] scanner — ✅ SNDKUSDT: score=65 dir=LONG (38/47)
+2026-06-16 11:38:14,639 [INFO] scanner — ⬛ TRUMPUSDT: score too low (42/55 minimum)
+2026-06-16 11:38:16,884 [INFO] scanner — ⬛ WIFUSDT: score too low (50/55 minimum)
+2026-06-16 11:38:16,885 [INFO] scanner — Progress: 40/47 analysed | 3 valid | 39s elapsed
+2026-06-16 11:38:17,628 [INFO] scanner — ⬛ WLDUSDT: score too low (52/55 minimum)
+2026-06-16 11:38:17,789 [INFO] scanner — ⬛ XMRUSDT: score too low (42/55 minimum)
+2026-06-16 11:38:17,927 [INFO] scanner — ⬛ UAIUSDT: score too low (47/55 minimum)
+2026-06-16 11:38:18,510 [INFO] scanner — ⬛ XPLUSDT: score too low (41/55 minimum)
+2026-06-16 11:38:18,751 [INFO] scanner — ⬛ XRPUSDT: score too low (50/55 minimum)
+2026-06-16 11:38:18,852 [INFO] scanner — ⬛ ZECUSDT: score too low (35/55 minimum)
+2026-06-16 11:38:20,358 [INFO] scanner — ⬛ ZROUSDT: score too low (49/55 minimum)
+2026-06-16 11:38:20,360 [INFO] scanner — Full scan complete in 42s — 3 valid signals found
+2026-06-16 11:38:20,361 [INFO] scanner — TOP 3 SIGNALS:
+2026-06-16 11:38:20,361 [INFO] scanner —   #1 NEARUSDT: 73/100 — LONG — 24h: +6.5%
+2026-06-16 11:38:20,361 [INFO] scanner —   #2 CLUSDT: 65/100 — SHORT — 24h: -2.2%
+2026-06-16 11:38:20,361 [INFO] scanner —   #3 SNDKUSDT: 65/100 — LONG — 24h: +3.7%
+2026-06-16 11:38:27,083 [INFO] main — ✅ MORNING signals sent for 3 coins
+2026-06-16 11:38:27,084 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 11:38:27,085 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 16:53:22,930 [INFO] main — ============================================================
+2026-06-16 16:53:22,931 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 16:53:22,932 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 16:53:22,933 [INFO] main — ============================================================
+2026-06-16 16:53:23,987 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 16:53:23,988 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 16:53:23,989 [INFO] scanner — ============================================================
+2026-06-16 16:53:23,989 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 16:53:23,990 [INFO] scanner — ============================================================
+2026-06-16 16:53:25,307 [INFO] scanner — Total pairs on Bybit: 584
+2026-06-16 16:53:26,743 [INFO] data_fetcher — Filtered to 52 coins
+2026-06-16 16:53:26,744 [INFO] scanner — After volume/volatility filter: 52 coins
+2026-06-16 16:53:26,749 [INFO] scanner — Analysing ALL 52 candidates...
+2026-06-16 16:53:33,232 [INFO] scanner — ⬛ ADAUSDT: score too low (39/55 minimum)
+2026-06-16 16:53:34,289 [INFO] scanner — ⬛ 1000PEPEUSDT: score too low (44/55 minimum)
+2026-06-16 16:53:39,175 [INFO] scanner — ⬛ BCHUSDT: score too low (36/55 minimum)
+2026-06-16 16:53:47,751 [INFO] scanner — ⬛ AVAXUSDT: score too low (41/55 minimum)
+2026-06-16 16:53:48,445 [INFO] scanner — ⬛ ALLOUSDT: score too low (47/55 minimum)
+2026-06-16 16:53:55,485 [INFO] scanner — ⬛ BNBUSDT: score too low (45/55 minimum)
+2026-06-16 16:54:00,908 [INFO] scanner — ⬛ BTCUSDT: score too low (46/55 minimum)
+2026-06-16 16:54:01,266 [INFO] scanner — ⬛ CRVUSDT: score too low (36/55 minimum)
+2026-06-16 16:54:02,961 [INFO] scanner — ⬛ AEROUSDT: score too low (42/55 minimum)
+2026-06-16 16:54:17,430 [INFO] scanner — ⬛ AAVEUSDT: score too low (43/55 minimum)
+2026-06-16 16:54:18,128 [INFO] scanner — ⬛ ARBUSDT: score too low (39/55 minimum)
+2026-06-16 16:54:21,604 [INFO] scanner — ⬛ DOGEUSDT: score too low (48/55 minimum)
+2026-06-16 16:54:22,585 [INFO] scanner — ⬛ DOTUSDT: score too low (44/55 minimum)
+2026-06-16 16:54:23,629 [INFO] scanner — ⬛ CHIPUSDT: score too low (38/55 minimum)
+2026-06-16 16:54:33,199 [INFO] scanner — ✅ HYPEUSDT: score=60 dir=LONG (15/52)
+2026-06-16 16:54:33,389 [INFO] scanner — ⬛ APTUSDT: score too low (38/55 minimum)
+2026-06-16 16:54:39,191 [INFO] scanner — ⬛ ETHUSDT: score too low (42/55 minimum)
+2026-06-16 16:54:39,226 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (43/55 minimum)
+2026-06-16 16:54:39,310 [INFO] scanner — ⬛ LINKUSDT: score too low (47/55 minimum)
+2026-06-16 16:54:39,787 [INFO] scanner — ✅ CLUSDT: score=67 dir=SHORT (20/52)
+2026-06-16 16:54:39,793 [INFO] scanner — Progress: 20/52 analysed | 2 valid | 73s elapsed
+2026-06-16 16:54:39,945 [INFO] scanner — ⬛ ICPUSDT: score too low (46/55 minimum)
+2026-06-16 16:54:40,013 [INFO] scanner — ⬛ ENAUSDT: score too low (42/55 minimum)
+2026-06-16 16:54:42,778 [INFO] scanner — ⬛ HBARUSDT: score too low (39/55 minimum)
+2026-06-16 16:54:44,887 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (41 candles, need 50)
+2026-06-16 16:54:45,308 [INFO] scanner — ⬛ ONDOUSDT: score too low (37/55 minimum)
+2026-06-16 16:54:45,705 [INFO] scanner — ⬛ OPGUSDT: score too low (40/55 minimum)
+2026-06-16 16:54:46,038 [INFO] scanner — ⬛ OPUSDT: score too low (40/55 minimum)
+2026-06-16 16:54:50,329 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (42/55 minimum)
+2026-06-16 16:54:50,585 [INFO] scanner — ⬛ RENDERUSDT: score too low (36/55 minimum)
+2026-06-16 16:54:51,308 [INFO] scanner — ⬛ SNDKUSDT: score too low (45/55 minimum)
+2026-06-16 16:54:51,662 [INFO] scanner — ⬛ SOLUSDT: score too low (49/55 minimum)
+2026-06-16 16:54:56,087 [INFO] scanner — ⬛ SOXLUSDT: insufficient daily data (29 candles, need 50)
+2026-06-16 16:54:57,151 [INFO] scanner — ⬛ STGUSDT: score too low (38/55 minimum)
+2026-06-16 16:55:00,268 [INFO] scanner — ⬛ LTCUSDT: score too low (38/55 minimum)
+2026-06-16 16:55:02,317 [INFO] scanner — ⬛ TAOUSDT: score too low (39/55 minimum)
+2026-06-16 16:55:02,743 [INFO] scanner — ⬛ TRUMPUSDT: score too low (48/55 minimum)
+2026-06-16 16:55:04,122 [INFO] scanner — ⬛ PENGUUSDT: score too low (46/55 minimum)
+2026-06-16 16:55:06,283 [INFO] scanner — ⬛ UNIUSDT: score too low (45/55 minimum)
+2026-06-16 16:55:08,182 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (42/55 minimum)
+2026-06-16 16:55:08,367 [INFO] scanner — ⬛ VVVUSDT: score too low (46/55 minimum)
+2026-06-16 16:55:08,368 [INFO] scanner — Progress: 40/52 analysed | 2 valid | 102s elapsed
+2026-06-16 16:55:09,921 [INFO] scanner — ⬛ WIFUSDT: score too low (48/55 minimum)
+2026-06-16 16:55:12,645 [INFO] scanner — ⬛ WLDUSDT: score too low (48/55 minimum)
+2026-06-16 16:55:12,671 [INFO] scanner — ⬛ SUIUSDT: score too low (44/55 minimum)
+2026-06-16 16:55:13,697 [INFO] scanner — ⬛ HOMEUSDT: score too low (32/55 minimum)
+2026-06-16 16:55:13,890 [INFO] scanner — ⬛ WLFIUSDT: score too low (45/55 minimum)
+2026-06-16 16:55:15,190 [INFO] scanner — ⬛ NEARUSDT: score too low (28/55 minimum)
+2026-06-16 16:55:18,901 [INFO] scanner — ⬛ XRPUSDT: score too low (44/55 minimum)
+2026-06-16 16:55:20,643 [INFO] scanner — ⬛ ZROUSDT: score too low (46/55 minimum)
+2026-06-16 16:55:26,483 [INFO] scanner — ⬛ SPXUSDT: score too low (38/55 minimum)
+2026-06-16 16:55:29,988 [INFO] scanner — ⬛ XLMUSDT: score too low (40/55 minimum)
+2026-06-16 16:55:46,579 [INFO] scanner — ⬛ XPLUSDT: score too low (38/55 minimum)
+2026-06-16 16:56:19,004 [INFO] scanner — ⬛ ZECUSDT: score too low (31/55 minimum)
+2026-06-16 16:56:19,007 [INFO] scanner — Full scan complete in 172s — 2 valid signals found
+2026-06-16 16:56:19,008 [INFO] scanner — TOP 2 SIGNALS:
+2026-06-16 16:56:19,010 [INFO] scanner —   #1 CLUSDT: 67/100 — SHORT — 24h: -4.5%
+2026-06-16 16:56:19,013 [INFO] scanner —   #2 HYPEUSDT: 60/100 — LONG — 24h: +8.9%
+2026-06-16 16:56:25,010 [INFO] main — ✅ MORNING signals sent for 2 coins
+2026-06-16 16:56:25,010 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 16:56:25,011 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 18:00:25,060 [INFO] main — 🔍 EVENING scan triggered (7:00 PM WAT)
+2026-06-16 18:00:25,062 [INFO] scanner — ============================================================
+2026-06-16 18:00:25,062 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 18:00:25,063 [INFO] scanner — ============================================================
+2026-06-16 18:00:25,079 [ERROR] data_fetcher — Instruments error: HTTPSConnectionPool(host='api.bybit.com', port=443): Max retries exceeded with url: /v5/market/instruments-info?category=linear&status=Trading&limit=1000 (Caused by NameResolutionError("HTTPSConnection(host='api.bybit.com', port=443): Failed to resolve 'api.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2026-06-16 18:00:25,079 [ERROR] scanner — Could not fetch symbols from Bybit
+2026-06-16 18:00:25,084 [ERROR] telegram_sender — Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8786856212:AAFDpn0L16j9cDuH4nSNllY_JtXj1HeHcWM/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-06-16 18:00:25,087 [INFO] main — ✅ EVENING signals sent for 0 coins
+2026-06-16 21:16:24,122 [INFO] main — ============================================================
+2026-06-16 21:16:24,124 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 21:16:24,126 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 21:16:24,127 [INFO] main — ============================================================
+2026-06-16 21:16:25,340 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 21:16:25,341 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 21:16:25,343 [INFO] scanner — ============================================================
+2026-06-16 21:16:25,343 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 21:16:25,345 [INFO] scanner — ============================================================
+2026-06-16 21:16:26,988 [INFO] scanner — Total pairs on Bybit: 584
+2026-06-16 21:16:29,234 [INFO] data_fetcher — Filtered to 39 coins
+2026-06-16 21:16:29,236 [INFO] scanner — After volume/volatility filter: 39 coins
+2026-06-16 21:16:29,240 [INFO] scanner — Analysing ALL 39 candidates...
+2026-06-16 21:16:35,983 [INFO] scanner — ⬛ AEROUSDT: score too low (34/55 minimum)
+2026-06-16 21:16:37,080 [INFO] scanner — ⬛ ARBUSDT: score too low (37/55 minimum)
+2026-06-16 21:16:37,148 [INFO] scanner — ⬛ BCHUSDT: score too low (36/55 minimum)
+2026-06-16 21:16:37,198 [INFO] scanner — ⬛ ALLOUSDT: score too low (38/55 minimum)
+2026-06-16 21:16:37,283 [INFO] scanner — ⬛ BNBUSDT: score too low (42/55 minimum)
+2026-06-16 21:16:37,387 [INFO] scanner — ⬛ ADAUSDT: score too low (37/55 minimum)
+2026-06-16 21:16:37,921 [INFO] scanner — ⬛ AAVEUSDT: score too low (52/55 minimum)
+2026-06-16 21:16:38,281 [INFO] scanner — ⬛ APTUSDT: score too low (33/55 minimum)
+2026-06-16 21:16:43,212 [INFO] scanner — ⬛ DOGEUSDT: score too low (41/55 minimum)
+2026-06-16 21:16:43,552 [INFO] scanner — ⬛ CLUSDT: score too low (51/55 minimum)
+2026-06-16 21:16:43,742 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (48/55 minimum)
+2026-06-16 21:16:43,885 [INFO] scanner — ⬛ ENAUSDT: score too low (47/55 minimum)
+2026-06-16 21:16:43,920 [INFO] scanner — ⬛ HOMEUSDT: score too low (40/55 minimum)
+2026-06-16 21:16:44,280 [INFO] scanner — ⬛ HBARUSDT: score too low (33/55 minimum)
+2026-06-16 21:16:45,658 [INFO] scanner — ⬛ ICPUSDT: score too low (48/55 minimum)
+2026-06-16 21:16:48,139 [INFO] scanner — ✅ HYPEUSDT: score=60 dir=LONG (16/39)
+2026-06-16 21:16:49,448 [INFO] scanner — ⬛ JTOUSDT: score too low (47/55 minimum)
+2026-06-16 21:16:49,962 [INFO] scanner — ⬛ LITUSDT: score too low (48/55 minimum)
+2026-06-16 21:16:50,464 [INFO] scanner — ⬛ NEARUSDT: score too low (37/55 minimum)
+2026-06-16 21:16:50,705 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (41 candles, need 50)
+2026-06-16 21:16:50,708 [INFO] scanner — Progress: 20/39 analysed | 1 valid | 21s elapsed
+2026-06-16 21:16:51,150 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (35 candles, need 50)
+2026-06-16 21:16:52,013 [INFO] scanner — ⬛ OPGUSDT: score too low (47/55 minimum)
+2026-06-16 21:16:52,255 [INFO] scanner — ⬛ ONDOUSDT: score too low (32/55 minimum)
+2026-06-16 21:16:54,580 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (43/55 minimum)
+2026-06-16 21:16:55,476 [INFO] scanner — ⬛ RENDERUSDT: score too low (41/55 minimum)
+2026-06-16 21:16:56,041 [INFO] scanner — ⬛ ROAMUSDT: score too low (38/55 minimum)
+2026-06-16 21:16:56,700 [INFO] scanner — ⬛ SPACEUSDT: score too low (37/55 minimum)
+2026-06-16 21:16:58,065 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (2 candles, need 50)
+2026-06-16 21:16:58,776 [INFO] scanner — ⬛ SNDKUSDT: score too low (48/55 minimum)
+2026-06-16 21:16:59,356 [INFO] scanner — ⬛ TIAUSDT: score too low (49/55 minimum)
+2026-06-16 21:17:00,576 [INFO] scanner — ⬛ TAOUSDT: score too low (34/55 minimum)
+2026-06-16 21:17:01,386 [INFO] scanner — ⬛ TRUMPUSDT: score too low (44/55 minimum)
+2026-06-16 21:17:02,035 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (35/55 minimum)
+2026-06-16 21:17:03,194 [INFO] scanner — ⬛ VVVUSDT: score too low (44/55 minimum)
+2026-06-16 21:17:04,613 [INFO] scanner — ⬛ WLDUSDT: score too low (52/55 minimum)
+2026-06-16 21:17:05,676 [INFO] scanner — ⬛ XMRUSDT: score too low (47/55 minimum)
+2026-06-16 21:17:06,108 [INFO] scanner — ⬛ XRPUSDT: score too low (38/55 minimum)
+2026-06-16 21:17:06,844 [INFO] scanner — ⬛ ZECUSDT: score too low (26/55 minimum)
+2026-06-16 21:17:08,056 [INFO] scanner — ⬛ ZROUSDT: score too low (43/55 minimum)
+2026-06-16 21:17:08,059 [INFO] scanner — Full scan complete in 39s — 1 valid signals found
+2026-06-16 21:17:08,062 [INFO] scanner — TOP 1 SIGNALS:
+2026-06-16 21:17:08,062 [INFO] scanner —   #1 HYPEUSDT: 60/100 — LONG — 24h: +8.3%
+2026-06-16 21:17:11,091 [INFO] main — ✅ MORNING signals sent for 1 coins
+2026-06-16 21:17:11,092 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 21:17:11,094 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 21:21:58,578 [INFO] main — ============================================================
+2026-06-16 21:21:58,579 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 21:21:58,579 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 21:21:58,580 [INFO] main — ============================================================
+2026-06-16 21:21:59,600 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 21:21:59,600 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 21:21:59,600 [INFO] scanner — ============================================================
+2026-06-16 21:21:59,600 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 21:21:59,601 [INFO] scanner — ============================================================
+2026-06-16 21:22:01,332 [INFO] scanner — Total pairs on Bybit: 584
+2026-06-16 21:22:03,487 [INFO] data_fetcher — Filtered to 37 coins
+2026-06-16 21:22:03,488 [INFO] scanner — After volume/volatility filter: 37 coins
+2026-06-16 21:22:03,491 [INFO] scanner — Analysing ALL 37 candidates...
+2026-06-16 21:22:10,244 [INFO] scanner — ⬛ AAVEUSDT: score too low (52/55 minimum)
+2026-06-16 21:22:10,410 [INFO] scanner — ⬛ ARBUSDT: score too low (37/55 minimum)
+2026-06-16 21:22:10,833 [INFO] scanner — ⬛ ALLOUSDT: score too low (39/55 minimum)
+2026-06-16 21:22:10,964 [INFO] scanner — ⬛ BCHUSDT: score too low (35/55 minimum)
+2026-06-16 21:22:11,345 [INFO] scanner — ⬛ APTUSDT: score too low (34/55 minimum)
+2026-06-16 21:22:11,354 [INFO] scanner — ⬛ ADAUSDT: score too low (36/55 minimum)
+2026-06-16 21:22:11,401 [INFO] scanner — ⬛ AEROUSDT: score too low (34/55 minimum)
+2026-06-16 21:22:12,385 [INFO] scanner — ⬛ BNBUSDT: score too low (42/55 minimum)
+2026-06-16 21:22:16,995 [INFO] scanner — ⬛ CLUSDT: score too low (52/55 minimum)
+2026-06-16 21:22:17,259 [INFO] scanner — ⬛ ENAUSDT: score too low (49/55 minimum)
+2026-06-16 21:22:17,770 [INFO] scanner — ⬛ HOMEUSDT: score too low (40/55 minimum)
+2026-06-16 21:22:18,020 [INFO] scanner — ⬛ HBARUSDT: score too low (33/55 minimum)
+2026-06-16 21:22:18,649 [INFO] scanner — ⬛ JTOUSDT: score too low (49/55 minimum)
+2026-06-16 21:22:18,662 [INFO] scanner — ⬛ LITUSDT: score too low (48/55 minimum)
+2026-06-16 21:22:18,729 [INFO] scanner — ⬛ ICPUSDT: score too low (49/55 minimum)
+2026-06-16 21:22:21,319 [INFO] scanner — ✅ HYPEUSDT: score=60 dir=LONG (16/37)
+2026-06-16 21:22:23,179 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (41 candles, need 50)
+2026-06-16 21:22:23,522 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (35 candles, need 50)
+2026-06-16 21:22:24,027 [INFO] scanner — ⬛ OPGUSDT: score too low (44/55 minimum)
+2026-06-16 21:22:24,267 [INFO] scanner — ⬛ NEARUSDT: score too low (37/55 minimum)
+2026-06-16 21:22:24,268 [INFO] scanner — Progress: 20/37 analysed | 1 valid | 21s elapsed
+2026-06-16 21:22:24,924 [INFO] scanner — ⬛ RENDERUSDT: score too low (40/55 minimum)
+2026-06-16 21:22:24,962 [INFO] scanner — ⬛ ROAMUSDT: score too low (38/55 minimum)
+2026-06-16 21:22:25,563 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (44/55 minimum)
+2026-06-16 21:22:28,536 [INFO] scanner — ⬛ SNDKUSDT: score too low (48/55 minimum)
+2026-06-16 21:22:29,617 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (2 candles, need 50)
+2026-06-16 21:22:29,723 [INFO] scanner — ⬛ SPACEUSDT: score too low (37/55 minimum)
+2026-06-16 21:22:30,993 [INFO] scanner — ⬛ TIAUSDT: score too low (49/55 minimum)
+2026-06-16 21:22:31,104 [INFO] scanner — ⬛ SPXUSDT: score too low (38/55 minimum)
+2026-06-16 21:22:31,139 [INFO] scanner — ⬛ TRUMPUSDT: score too low (44/55 minimum)
+2026-06-16 21:22:31,371 [INFO] scanner — ⬛ TAOUSDT: score too low (34/55 minimum)
+2026-06-16 21:22:32,100 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (36/55 minimum)
+2026-06-16 21:22:34,972 [INFO] scanner — ⬛ VVVUSDT: score too low (44/55 minimum)
+2026-06-16 21:22:35,458 [INFO] scanner — ⬛ WLDUSDT: score too low (52/55 minimum)
+2026-06-16 21:22:35,560 [INFO] scanner — ⬛ XMRUSDT: score too low (45/55 minimum)
+2026-06-16 21:22:36,904 [INFO] scanner — ⬛ XRPUSDT: score too low (38/55 minimum)
+2026-06-16 21:22:36,977 [INFO] scanner — ⬛ ZROUSDT: score too low (45/55 minimum)
+2026-06-16 21:22:37,080 [INFO] scanner — ⬛ ZECUSDT: score too low (27/55 minimum)
+2026-06-16 21:22:37,081 [INFO] scanner — Full scan complete in 34s — 1 valid signals found
+2026-06-16 21:22:37,081 [INFO] scanner — TOP 1 SIGNALS:
+2026-06-16 21:22:37,082 [INFO] scanner —   #1 HYPEUSDT: 60/100 — LONG — 24h: +8.7%
+2026-06-16 21:22:40,139 [INFO] main — ✅ MORNING signals sent for 1 coins
+2026-06-16 21:22:40,140 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 21:22:40,140 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-16 21:33:04,378 [INFO] main — ============================================================
+2026-06-16 21:33:04,379 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-06-16 21:33:04,380 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-06-16 21:33:04,380 [INFO] main — ============================================================
+2026-06-16 21:33:05,900 [INFO] main — 🚀 Running instant scan on startup...
+2026-06-16 21:33:05,902 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-16 21:33:05,902 [INFO] scanner — ============================================================
+2026-06-16 21:33:05,903 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-16 21:33:05,904 [INFO] scanner — ============================================================
+2026-06-16 21:33:07,412 [INFO] scanner — Total pairs on Bybit: 584
+2026-06-16 21:33:09,538 [INFO] data_fetcher — Filtered to 41 coins
+2026-06-16 21:33:09,539 [INFO] scanner — After volume/volatility filter: 41 coins
+2026-06-16 21:33:09,542 [INFO] scanner — Analysing ALL 41 candidates...
+2026-06-16 21:33:16,342 [INFO] scanner — ⬛ APTUSDT: score too low (34/55 minimum)
+2026-06-16 21:33:16,681 [INFO] scanner — ⬛ BNBUSDT: score too low (43/55 minimum)
+2026-06-16 21:33:17,076 [INFO] scanner — ⬛ BCHUSDT: score too low (35/55 minimum)
+2026-06-16 21:33:17,121 [INFO] scanner — ⬛ ALLOUSDT: score too low (40/55 minimum)
+2026-06-16 21:33:17,268 [INFO] scanner — ⬛ ARBUSDT: score too low (38/55 minimum)
+2026-06-16 21:33:17,294 [INFO] scanner — ⬛ ADAUSDT: score too low (35/55 minimum)
+2026-06-16 21:33:17,515 [INFO] scanner — ⬛ AAVEUSDT: score too low (49/55 minimum)
+2026-06-16 21:33:17,825 [INFO] scanner — ⬛ AEROUSDT: score too low (33/55 minimum)
+2026-06-16 21:33:22,670 [INFO] scanner — ⬛ DOGEUSDT: score too low (41/55 minimum)
+2026-06-16 21:33:23,367 [INFO] scanner — ⬛ CLUSDT: score too low (52/55 minimum)
+2026-06-16 21:33:23,378 [INFO] scanner — ⬛ ETHUSDT: score too low (43/55 minimum)
+2026-06-16 21:33:23,728 [INFO] scanner — ⬛ FARTCOINUSDT: score too low (50/55 minimum)
+2026-06-16 21:33:24,397 [INFO] scanner — ⬛ ENAUSDT: score too low (48/55 minimum)
+2026-06-16 21:33:24,436 [INFO] scanner — ⬛ HOMEUSDT: score too low (41/55 minimum)
+2026-06-16 21:33:24,628 [INFO] scanner — ⬛ HYPEUSDT: score too low (54/55 minimum)
+2026-06-16 21:33:24,733 [INFO] scanner — ⬛ HBARUSDT: score too low (33/55 minimum)
+2026-06-16 21:33:29,694 [INFO] scanner — ⬛ ICPUSDT: score too low (46/55 minimum)
+2026-06-16 21:33:30,419 [INFO] scanner — ⬛ LITUSDT: score too low (49/55 minimum)
+2026-06-16 21:33:30,841 [INFO] scanner — ⬛ MUUSDT: insufficient daily data (41 candles, need 50)
+2026-06-16 21:33:30,868 [INFO] scanner — ⬛ NEARUSDT: score too low (38/55 minimum)
+2026-06-16 21:33:30,869 [INFO] scanner — Progress: 20/41 analysed | 0 valid | 21s elapsed
+2026-06-16 21:33:31,089 [INFO] scanner — ⬛ JTOUSDT: score too low (48/55 minimum)
+2026-06-16 21:33:31,154 [INFO] scanner — ⬛ ONDOUSDT: score too low (32/55 minimum)
+2026-06-16 21:33:31,242 [INFO] scanner — ⬛ MRVLUSDT: insufficient daily data (35 candles, need 50)
+2026-06-16 21:33:31,299 [INFO] scanner — ⬛ OPGUSDT: score too low (46/55 minimum)
+2026-06-16 21:33:36,863 [INFO] scanner — ⬛ RENDERUSDT: score too low (38/55 minimum)
+2026-06-16 21:33:36,950 [INFO] scanner — ⬛ PUMPFUNUSDT: score too low (43/55 minimum)
+2026-06-16 21:33:37,151 [INFO] scanner — ⬛ SPCXUSDT: insufficient daily data (2 candles, need 50)
+2026-06-16 21:33:37,388 [INFO] scanner — ⬛ SPACEUSDT: score too low (37/55 minimum)
+2026-06-16 21:33:37,647 [INFO] scanner — ⬛ ROAMUSDT: score too low (35/55 minimum)
+2026-06-16 21:33:37,974 [INFO] scanner — ⬛ SNDKUSDT: score too low (47/55 minimum)
+2026-06-16 21:33:38,643 [INFO] scanner — ⬛ SPXUSDT: score too low (39/55 minimum)
+2026-06-16 21:33:39,591 [INFO] scanner — ⬛ TAOUSDT: score too low (33/55 minimum)
+2026-06-16 21:33:43,294 [INFO] scanner — ⬛ TRUMPUSDT: score too low (43/55 minimum)
+2026-06-16 21:33:43,450 [INFO] scanner — ⬛ VIRTUALUSDT: score too low (34/55 minimum)
+2026-06-16 21:33:43,741 [INFO] scanner — ⬛ WLDUSDT: score too low (52/55 minimum)
+2026-06-16 21:33:43,816 [INFO] scanner — ⬛ VVVUSDT: score too low (41/55 minimum)
+2026-06-16 21:33:43,994 [INFO] scanner — ⬛ TIAUSDT: score too low (51/55 minimum)
+2026-06-16 21:33:44,200 [INFO] scanner — ⬛ XMRUSDT: score too low (43/55 minimum)
+2026-06-16 21:33:45,413 [INFO] scanner — ⬛ ZECUSDT: score too low (28/55 minimum)
+2026-06-16 21:33:45,849 [INFO] scanner — ⬛ XRPUSDT: score too low (40/55 minimum)
+2026-06-16 21:33:45,850 [INFO] scanner — Progress: 40/41 analysed | 0 valid | 36s elapsed
+2026-06-16 21:33:50,480 [INFO] scanner — ⬛ ZROUSDT: score too low (44/55 minimum)
+2026-06-16 21:33:50,482 [INFO] scanner — Full scan complete in 41s — 0 valid signals found
+2026-06-16 21:33:50,482 [INFO] scanner — TOP 0 SIGNALS:
+2026-06-16 21:33:50,482 [WARNING] scanner — No signals passed all filters. Market may be overextended.
+2026-06-16 21:33:51,511 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-16 21:33:51,513 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-06-16 21:33:51,513 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-06-23 11:52:47,005 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-06-23 11:52:47,006 [INFO] scanner — ============================================================
+2026-06-23 11:52:47,006 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-23 11:52:47,006 [INFO] scanner — ============================================================
+2026-06-23 11:52:47,008 [ERROR] data_fetcher — Instruments error: HTTPSConnectionPool(host='api.bybit.com', port=443): Max retries exceeded with url: /v5/market/instruments-info?category=linear&status=Trading&limit=1000 (Caused by NameResolutionError("HTTPSConnection(host='api.bybit.com', port=443): Failed to resolve 'api.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2026-06-23 11:52:47,008 [ERROR] scanner — Could not fetch symbols from Bybit
+2026-06-23 11:52:47,009 [ERROR] telegram_sender — Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8786856212:AAFDpn0L16j9cDuH4nSNllY_JtXj1HeHcWM/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-06-23 11:52:47,009 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-06-23 11:52:47,009 [INFO] main — 🔍 EVENING scan triggered (7:00 PM WAT)
+2026-06-23 11:52:47,009 [INFO] scanner — ============================================================
+2026-06-23 11:52:47,010 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-06-23 11:52:47,010 [INFO] scanner — ============================================================
+2026-06-23 11:52:47,011 [ERROR] data_fetcher — Instruments error: HTTPSConnectionPool(host='api.bybit.com', port=443): Max retries exceeded with url: /v5/market/instruments-info?category=linear&status=Trading&limit=1000 (Caused by NameResolutionError("HTTPSConnection(host='api.bybit.com', port=443): Failed to resolve 'api.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2026-06-23 11:52:47,011 [ERROR] scanner — Could not fetch symbols from Bybit
+2026-06-23 11:52:47,012 [ERROR] telegram_sender — Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8786856212:AAFDpn0L16j9cDuH4nSNllY_JtXj1HeHcWM/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-06-23 11:52:47,012 [INFO] main — ✅ EVENING signals sent for 0 coins
+2026-08-26 16:12:19,328 [INFO] main — ============================================================
+2026-08-26 16:12:19,331 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-08-26 16:12:19,332 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-08-26 16:12:19,333 [INFO] main — ============================================================
+2026-08-26 16:12:21,606 [INFO] main — 🚀 Running instant scan on startup...
+2026-08-26 16:12:21,607 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-08-26 16:12:21,608 [INFO] scanner — ============================================================
+2026-08-26 16:12:21,609 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-08-26 16:12:21,610 [INFO] scanner — ============================================================
+2026-08-26 16:12:37,625 [ERROR] data_fetcher — Instruments error: HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=15)
+2026-08-26 16:12:37,626 [ERROR] scanner — Could not fetch symbols from Bybit
+2026-08-26 16:12:39,140 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-08-26 16:12:39,143 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-08-26 16:12:39,144 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-08-26 16:21:13,845 [INFO] main — ============================================================
+2026-08-26 16:21:13,846 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-08-26 16:21:13,847 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-08-26 16:21:13,848 [INFO] main — ============================================================
+2026-08-26 16:21:15,607 [INFO] main — 🚀 Running instant scan on startup...
+2026-08-26 16:21:15,608 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-08-26 16:21:15,608 [INFO] scanner — ============================================================
+2026-08-26 16:21:15,609 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-08-26 16:21:15,610 [INFO] scanner — ============================================================
+2026-08-26 16:21:31,312 [ERROR] data_fetcher — Instruments error: HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=15)
+2026-08-26 16:21:31,314 [ERROR] scanner — Could not fetch symbols from Bybit
+2026-08-26 16:21:33,266 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-08-26 16:21:33,268 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-08-26 16:21:33,269 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
+2026-08-26 16:31:32,416 [INFO] main — ============================================================
+2026-08-26 16:31:32,417 [INFO] main —   BYBIT FUTURES SIGNAL BOT  STARTING
+2026-08-26 16:31:32,418 [INFO] main —   Schedule: 7:00 AM & 7:00 PM (WAT - Lagos/Accra)
+2026-08-26 16:31:32,418 [INFO] main — ============================================================
+2026-08-26 16:31:33,544 [INFO] main — 🚀 Running instant scan on startup...
+2026-08-26 16:31:33,545 [INFO] main — 🔍 MORNING scan triggered (7:00 AM WAT)
+2026-08-26 16:31:33,545 [INFO] scanner — ============================================================
+2026-08-26 16:31:33,546 [INFO] scanner — STARTING FULL MARKET SCAN — ALL BYBIT USDT FUTURES
+2026-08-26 16:31:33,546 [INFO] scanner — ============================================================
+2026-08-26 16:31:49,136 [ERROR] data_fetcher — Instruments error: HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=15)
+2026-08-26 16:31:49,137 [ERROR] scanner — Could not fetch symbols from Bybit
+2026-08-26 16:31:50,847 [INFO] main — ✅ MORNING signals sent for 0 coins
+2026-08-26 16:31:50,848 [INFO] main — ⏰ Morning scan scheduled: 7:00 AM WAT (06:00 UTC)
+2026-08-26 16:31:50,849 [INFO] main — ⏰ Evening scan scheduled: 7:00 PM WAT (18:00 UTC)
